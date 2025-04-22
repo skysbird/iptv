@@ -1,0 +1,3 @@
+[submodule "tv-garden"]
+	path = tv-garden
+	url = git@github.com:TVGarden/tv-garden-channel-list.git
