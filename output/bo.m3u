@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="spa" group-title="BO" geo-blocked="no",Bolivia TV
+https://5fe2654d6127d.streamlock.net:443/boliviatv/videoboliviatv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="BO" geo-blocked="no",Bolivia TV 7.2
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="BO" geo-blocked="no",Bolivisión LPZ
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="BO" geo-blocked="no",Cadena A
+https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="BO" geo-blocked="no",Ceacom
+https://eu1.servers10.com:8081/ceacom/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="BO" geo-blocked="no",Coral TV
+https://tv.mediacp.eu:8081/coraltv/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="BO" geo-blocked="no",Radio Uno PST
+https://master.tucableip.com/pstbolivia/video.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="BO" geo-blocked="no",Red CCTV
+https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="BO" geo-blocked="no",TDT Multimedia
+https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="BO" geo-blocked="no",Univalle Televisión
+https://master.tucableip.com/univalletv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="BO" geo-blocked="no",UniversidadMayordeSanAndres
+https://s1.tvdatta.com:3557/live/tvulive.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="BO" geo-blocked="no",UPP TV/Bolivisión SCZ
+https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="BO" geo-blocked="no",VTV Canal 17
+https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="BO" geo-blocked="no",Zoy TV Sports 1
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvsports/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="BO" geo-blocked="no",Zoy TV Turcas
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvturcas/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="BO" geo-blocked="no",ZoyTV Plus
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytv/playlist.m3u8

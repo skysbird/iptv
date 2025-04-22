@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="ara" group-title="SY" geo-blocked="no",Althania
+https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SY" geo-blocked="no",Halab Today TV
+https://www.youtube-nocookie.com/embed/kFzAHSX13Ck

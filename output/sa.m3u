@@ -1,0 +1,137 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Abdulmajeed Abdullah
+https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
+#EXTINF:-1 tvg-language="arz" group-title="SA" geo-blocked="no",Aflam
+https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Al Arabiya Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Al Arabiya Al Hadath
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Al Arabiya Al Hadath
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Al Ekhbariya
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Al Ekhbariya
+https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Al Ekhbariya
+https://www.youtube-nocookie.com/embed/jDChXanY4oQ
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Al Khalij
+https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Al Quran Al Kareem TV
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Al Quran Al Kareem TV
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Al Riyadh Radio
+https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Al Saudiya
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Al Saudiya
+https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Al Saudiya Alaan
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Al Sunnah Al Nabawiyah TV
+https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Al Sunnah Al Nabawiyah TV
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",AlHadath: الحدث
+https://www.youtube-nocookie.com/embed/zq6ohxTDNZY
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Alkhuzama Radio
+https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Asharq Discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Asharq Documentary
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Asharq News
+https://asharq-prod-dub-enc.edgenextcdn.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Asharq News
+https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Asharq News
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Asharq News
+https://www.youtube-nocookie.com/embed/f6VpkfV7m4Y
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Asharq News Portrait
+https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Asharq Radio
+https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Atfal & Mawaheb TV
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Atfal & Mawaheb TV
+https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Bab Al Hara
+https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Bedaya TV
+https://shls-live-enc.edgenextcdn.net/out/v1/97427be47b79457b9ca245e22a8db23a/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Big Time Plus
+https://big-time-plus-enc.edgenextcdn.net/out/v1/c885383fb76943c98fa223e7fd08b125/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Fairuz
+https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Gumball
+https://www.youtube-nocookie.com/embed/NHJUJka-Ke0
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Gumball
+https://www.youtube-nocookie.com/embed/2esEAHsslJk
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Hala Bel3eyal: Shabab Al-Bomb
+https://www.youtube-nocookie.com/embed/5cME8xlBGXk
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Iqraa Arabic
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Iqraa Quran
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Jeddah Radio
+https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",KSA Sports
+https://www.youtube-nocookie.com/embed/1Nz68K3dMB4
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",M+ HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Majid Al Mohandis
+https://shls-live-mood-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Makkah TV
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="SA" geo-blocked="no",MBC Loud
+https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",MBC Masr Drama
+https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",MBC+ Drama
+https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Mohammed Abdo
+https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Movies Action
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Movies Thriller
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Nidae AlIslam Radio
+https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Panorama FM
+https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Panorama FM
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Quran Radio
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Rabeh Saqer
+https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Ramez
+https://shls-live-enc.edgenextcdn.net/out/v1/0ef83323c0374a1187c182645db2a45f/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Rashid AlMajed
+https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Rotana Aflam+ HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Rotana Cinema KSA
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Rotana Classic
+https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Saudi Thaqafiya TV
+https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Saudia Radio
+https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",SBC
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",SSC Action Waleed
+https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Tarab
+https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Tarab
+https://shls-live-mood-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",Thikrayat TV
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",أفلام تركية مدبلجة للعربية - Turkish Movies
+https://www.youtube-nocookie.com/embed/L6WulV4w31Q
+#EXTINF:-1 tvg-language="ara" group-title="SA" geo-blocked="no",العربية إف إم Alarabiya FM
+https://www.youtube-nocookie.com/embed/nX4xrWk1QO0

@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="mya" group-title="MM" geo-blocked="no",5 Plus
+https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
+#EXTINF:-1 tvg-language="mya" group-title="MM" geo-blocked="no",Channel 7
+https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
+#EXTINF:-1 tvg-language="mya" group-title="MM" geo-blocked="no",Channel 7
+https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8
+#EXTINF:-1 tvg-language="mya" group-title="MM" geo-blocked="no",Mahar TV
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="MM" geo-blocked="no",MCS
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="MM" geo-blocked="no",MITV
+https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
+#EXTINF:-1 tvg-language="mya" group-title="MM" geo-blocked="no",MN TV
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:-1 tvg-language="mya" group-title="MM" geo-blocked="no",MRTV
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
+#EXTINF:-1 tvg-language="mya" group-title="MM" geo-blocked="no",MRTV 4
+https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+#EXTINF:-1 tvg-language="mya" group-title="MM" geo-blocked="no",MRTV 4
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8
+#EXTINF:-1 tvg-language="mya" group-title="MM" geo-blocked="no",MRTV Entertainment
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
+#EXTINF:-1 tvg-language="mya" group-title="MM" geo-blocked="no",MRTV Parliament
+https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8

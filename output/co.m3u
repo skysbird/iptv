@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Agenda Al Día TV
+https://cp.panelchs.com:1936/8156/8156/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",ANC Televisión
+https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Avivamiento TV
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Bum Televisión
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Bum Televisión
+https://video.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Cable Sur TV
+https://tvlatina.live:1936/8012/8012/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Canal 2 Alpavisión Neiva
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Canal 8 TV+
+https://movil.ejeserver.com/live/canal8tv.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Canal 8 TV+
+https://video.ejeserver.com/live/canal8tv.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Canal 14 Codazzi
+https://eu1.servers10.com:8081/8056/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Canal Capital
+https://cdns.livewave.co:19360/canalcapital/canalcapital.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Canal Cine Dios
+https://canal.mediaserver.com.co/live/cinedios.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Canal Más Televisión
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Canal Más Televisión
+https://video.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Canal Nets
+https://movil.ejeserver.com/live/nets.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Canal Nets
+https://video.ejeserver.com/live/nets.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Canal Oración Con Son
+https://canal.mediaserver.com.co/live/oracionconson.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Canal Telefamilia
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Champion TV
+https://canal.mediaserver.com.co/live/ChampionTv.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",CityTv
+https://www.youtube-nocookie.com/embed/eJ2CKNKV8-Y
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",CiudadelaTV
+https://cp.panelchs.com:1936/8096/8096/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",CNC Santander de Quilichao
+https://movil.ejeserver.com/live/cncsantander.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",CNC Santander de Quilichao
+https://video.ejeserver.com/live/cncsantander.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",CTV Barranquilla
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Eduvision
+https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Frecuencia F TV
+https://tv.frecuenciaf.com/live/envivo.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",La Hermandad Salsera
+https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Luna Estéreo 106.4 FM
+https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",MasMusica FM
+https://movil.ejeserver.com/live/masmusica.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",MasMusica FM
+https://video.ejeserver.com/live/masmusica.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",MCI Television
+https://video.ejeserver.com/live/mcitelevision.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",MovieFe
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Multicanal Televisión
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/multicanal/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Noticias Caracol
+https://www.youtube-nocookie.com/embed/5_Lh38_73kg
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",NSTV
+https://cp.panelchs.com:1936/8038/8038/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Oasis TV
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Ondambiental TV
+https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",RCN Más
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",RDM Televisión
+https://cp.panelchs.com:1936/8010/8010/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Red+
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Reyali
+https://eu1.servers10.com:8081/8090/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Santel TV
+https://tvlatina.live:1936/8004/8004/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Satel Canal 4
+https://server.asilivehd.com:3802/live/canal4live.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Suram TV
+https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Tele San Jacinto
+https://movil.ejeserver.com/live/telesanjacinto.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Tele San Jacinto
+https://video.ejeserver.com/live/telesanjacinto.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Teleislas
+https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Telepacífico
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Televilla
+https://cp.panelchs.com:1936/8060/8060/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Tu Universo TV
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",TV Peñol
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",TV San Jorge
+https://asucap.com/livestream/asucap_envivo.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Veo Televisión
+https://movil.ejeserver.com/live/veotv.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Veo Televisión
+https://video.ejeserver.com/live/veotv.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CO" geo-blocked="no",Zoom
+https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8

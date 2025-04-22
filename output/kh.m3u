@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="fra" group-title="KH" geo-blocked="no",Apsara TV11
+https://live.ams.com.kh/app/stream/playlist.m3u8
+#EXTINF:-1 tvg-language="khm" group-title="KH" geo-blocked="no",Bayon TV
+https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
+#EXTINF:-1 tvg-language="khm" group-title="KH" geo-blocked="no",BTV News
+https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
+#EXTINF:-1 tvg-language="khm" group-title="KH" geo-blocked="no",CTV 9
+https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8
+#EXTINF:-1 tvg-language="khm" group-title="KH" geo-blocked="no",Fresh News
+https://streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="KH" geo-blocked="no",Netlink TV
+https://netlink.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-1 tvg-language="khm" group-title="KH" geo-blocked="no",SEATV
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-1 tvg-language="khm" group-title="KH" geo-blocked="no",TV5 Cambodia
+https://es1-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8
+#EXTINF:-1 tvg-language="khm" group-title="KH" geo-blocked="no",TVK
+https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+#EXTINF:-1 tvg-language="khm" group-title="KH" geo-blocked="no",TVK 2
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+#EXTINF:-1 tvg-language="khm" group-title="KH" geo-blocked="no",WIKI TV
+https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8

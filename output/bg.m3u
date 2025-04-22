@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="bul" group-title="BG" geo-blocked="no",Agro TV
+https://restr2.bgtv.bg/agro/hls/agro.m3u8
+#EXTINF:-1 tvg-language="bul" group-title="BG" geo-blocked="no",Evrokom
+https://live.ecomservice.bg/hls/stream.m3u8
+#EXTINF:-1 tvg-language="bul" group-title="BG" geo-blocked="no",Light Channel
+https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 tvg-language="bul" group-title="BG" geo-blocked="no",This is Bulgaria HD
+https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
+#EXTINF:-1 tvg-language="bul" group-title="BG" geo-blocked="no",Tiankov Folk
+https://streamer103.neterra.tv/tiankov-folk/live.m3u8
+#EXTINF:-1 tvg-language="bul" group-title="BG" geo-blocked="no",Tiankov Orient Folk
+https://streamer103.neterra.tv/tiankov-orient/live.m3u8
+#EXTINF:-1 tvg-language="bul" group-title="BG" geo-blocked="no",Travel TV
+https://streamer103.neterra.tv/travel/live.m3u8

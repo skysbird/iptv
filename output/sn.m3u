@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="fra" group-title="SN" geo-blocked="no",Al Khadimiyyah TV
+https://www.youtube-nocookie.com/embed/Lo1IYFT1Kjk
+#EXTINF:-1 tvg-language="fra" group-title="SN" geo-blocked="no",Amani TV
+https://goccn.cloud/hls/amanitv/index.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="SN" geo-blocked="no",Chabiba TV
+https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="SN" geo-blocked="no",Islam TV Sénégal
+https://tv.imediasn.com/hls/live.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="SN" geo-blocked="no",Louga TV
+https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="SN" geo-blocked="no",SenJeunes TV
+https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="SN" geo-blocked="no",Yeglé TV
+https://endour.net/hls/Yegle-tv/index.m3u8

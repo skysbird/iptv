@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="fra" group-title="BJ" geo-blocked="no",ADO TV
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="BJ" geo-blocked="no",Canal 3 Bénin
+https://live.creacast.com/bluediamond/stream/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="BJ" geo-blocked="no",Eden TV
+https://rtmp.edentv.bj/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="BJ" geo-blocked="no",Etélé
+https://livetvsteam.com:1936/etelebenin/etelebenin/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="BJ" geo-blocked="no",ORTB TV
+https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="BJ" geo-blocked="no",Power TV
+https://stream.it-innov.com/powertv/index.fmp4.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="BJ" geo-blocked="no",TVC Bénin
+https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8

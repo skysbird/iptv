@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="spa" group-title="GT" geo-blocked="no",A+ Guate
+https://ch2-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="GT" geo-blocked="no",Amigos TV Chiquimula
+https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="GT" geo-blocked="no",Aurora Media Films
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="GT" geo-blocked="no",Azteca Guate
+https://ch1-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="GT" geo-blocked="no",Canal 9 Barbe TV
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="GT" geo-blocked="no",Canal 9 Ixchiguán
+https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="GT" geo-blocked="no",Canal 30 TV Bethel
+https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="GT" geo-blocked="no",Canal 98 Jesús TV
+https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="GT" geo-blocked="no",Canal 100 Chinique
+https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="GT" geo-blocked="no",Espíritu Santo Y Fuego TV
+https://inliveserver.com:1936/8392/8392/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="GT" geo-blocked="no",Esquipulas TV
+https://live.esquipulastv.com:3930/live/esquipulastvlive.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="GT" geo-blocked="no",Maxivisión TV
+https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="GT" geo-blocked="no",Nuevo Mundo TV
+https://tvlatina.live:1936/8008/8008/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="GT" geo-blocked="no",Peniel Kids & Young
+https://s.emisoras.tv:8081/penielkids/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="GT" geo-blocked="no",Peniel Musical
+https://s.emisoras.tv:8081/penielmusical/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="GT" geo-blocked="no",Peniel TV Biblia Abierta
+https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="GT" geo-blocked="no",PMCS TV
+https://cdn.streamhispanatv.net:3787/live/pmcstvlive.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="GT" geo-blocked="no",Rhema TV
+https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="GT" geo-blocked="no",SAS TV
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="GT" geo-blocked="no",Sol TV
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="GT" geo-blocked="no",Tigo Sports (Guatemala)
+https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="GT" geo-blocked="no",TV Florencia
+https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
+#EXTINF:-1 tvg-language="yua" group-title="GT" geo-blocked="no",TV Maya
+https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="GT" geo-blocked="no",TVS Retro
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="GT" geo-blocked="no",Visión TV
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8

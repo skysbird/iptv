@@ -1,0 +1,227 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="pus" group-title="UK" geo-blocked="no",Afghanistan International
+https://hls.afintl.com/hls/stream.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Ahlulbayt TV
+https://cdn5.iqsat.net/iqb02/35fae546b99b61a038d52353487e8190.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="pan" group-title="UK" geo-blocked="no",Akaal Channel
+https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="UK" geo-blocked="no",Alhiwar TV
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Amazing World of Gumball
+https://www.youtube-nocookie.com/embed/nIyaCRNwxhU
+#EXTINF:-1 tvg-language="mal" group-title="UK" geo-blocked="no",Anand TV
+https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Banijay Bluelight: Real Life Hospital Documentaries
+https://www.youtube-nocookie.com/embed/FQrBhlqiEdo
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Banijay Crime: Deadly Women
+https://www.youtube-nocookie.com/embed/JIvTf_nhrDw
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Banijay Documentaries: Haunted Stories
+https://www.youtube-nocookie.com/embed/Z_ZfpKxJzXs
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Banijay Engine: Full Custom Garage
+https://www.youtube-nocookie.com/embed/ABFJHkiy0Dc
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Banijay History: History Cold Case
+https://www.youtube-nocookie.com/embed/1nvtl7dwmMY
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Banijay History: Hitler's Countdown to War
+https://www.youtube-nocookie.com/embed/ituLgNZt4Q0
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Banijay Home and Garden: Location Location Location
+https://www.youtube-nocookie.com/embed/HPycA_-rKxk
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Banijay Science: Engineering Disasters
+https://www.youtube-nocookie.com/embed/ud-GN4ql3IQ
+#EXTINF:-1 tvg-language="ara" group-title="UK" geo-blocked="no",BBC Arabic
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="UK" geo-blocked="no",BBC Arabic
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="UK" geo-blocked="no",BBC Arabic
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1 tvg-language="" group-title="UK" geo-blocked="no",BBC News (North America)
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="UK" geo-blocked="no",BBC News Asia Pacific
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="UK" geo-blocked="no",BBC News عربي
+https://www.youtube-nocookie.com/embed/hC9fwQXSUCk
+#EXTINF:-1 tvg-language="fas" group-title="UK" geo-blocked="no",BBC Persian
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="UK" geo-blocked="no",BBC Persian
+https://www.youtube-nocookie.com/embed/IdnTOsEow0Q
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Beano TV
+https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Bluey - Official Channel
+https://www.youtube-nocookie.com/embed/Ll56PmVqVRQ
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Boomerang: Best Cartoons Ever
+https://www.youtube-nocookie.com/embed/rEKifG2XUZg
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Boomerang: The Tom and Jerry Show
+https://www.youtube-nocookie.com/embed/_XeGYNTiuSM
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Boomerang: Tom & Jerry
+https://www.youtube-nocookie.com/embed/2UOwO_N17ms
+#EXTINF:-1 tvg-language="" group-title="UK" geo-blocked="no",Bridezillas
+https://run-br-uk.otteravision.com/run/br_uk/br_uk_720.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Cartoonito: Baby Looney Tunes
+https://www.youtube-nocookie.com/embed/p5l3ZS1jVUE
+#EXTINF:-1 tvg-language="ben" group-title="UK" geo-blocked="no",Channel S
+https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Cruise1st TV
+https://www.youtube-nocookie.com/embed/XFKQce14Zaw
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",DiscoverFilm
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Discovery UK
+https://www.youtube-nocookie.com/embed/8a96MoUeoZQ
+#EXTINF:-1 tvg-language="urd" group-title="UK" geo-blocked="no",Dunya News (UK Feed)
+https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Eman Channel
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="UK" geo-blocked="no",Frecuencia Musical TV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1 tvg-language="mal" group-title="UK" geo-blocked="no",Garshom TV
+https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",GB News
+https://www.youtube-nocookie.com/embed/QliL4CGc7iY
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Gems TV
+https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="UK" geo-blocked="no",Hadi TV French
+https://live.ishiacloud.com/haditv.co.uk/haditv8.m3u8
+#EXTINF:-1 tvg-language="" group-title="UK" geo-blocked="no",Hadi TV Indonesian and Thai
+https://live.ishiacloud.com/haditv.co.uk/haditv2.m3u8
+#EXTINF:-1 tvg-language="" group-title="UK" geo-blocked="no",Hadi TV Turkish and Kurdish
+https://live.ishiacloud.com/haditv.co.uk/haditv7.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="UK" geo-blocked="no",Hala London
+https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Hobby Maker
+https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Horrid Henry
+https://www.youtube-nocookie.com/embed/v2xWf_Kq5EA
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Horse & Country TV
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Horse & Country TV
+https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Ideal World
+https://www.youtube-nocookie.com/embed/pNVWQQjMNqQ
+#EXTINF:-1 tvg-language="fas" group-title="UK" geo-blocked="no",Iran International
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="UK" geo-blocked="no",Iran International
+https://live.livetvstream.co.uk/LS-63503-4/index.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="UK" geo-blocked="no",Iran International
+https://live.playstop.me/1816184091/index.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="UK" geo-blocked="no",Iran International
+https://live.playstop.me/LS-63503-4/index.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="UK" geo-blocked="no",Iran International
+https://www.youtube-nocookie.com/embed/kC-PDwEi6S4
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Jungle Beat
+https://www.youtube-nocookie.com/embed/1f8lo02e2SI
+#EXTINF:-1 tvg-language="som" group-title="UK" geo-blocked="no",Kalsan TV
+https://ap02.iqplay.tv:8082/iqb8002/ka1s0n/playlist.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="UK" geo-blocked="no",Kanal Jadid
+https://kjhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="hin" group-title="UK" geo-blocked="no",Kanshi TV
+https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",KICCTV
+https://live.mdc.akamaized.net/hls/livestream/kicctv/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="UK" geo-blocked="no",Loveworld TV
+https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:lwukweb.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="mal" group-title="UK" geo-blocked="no",Magna Vision
+https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",MBC
+https://cdn8.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/FNTV-CHANNEL_CDN77/index.m3u8
+#EXTINF:-1 tvg-language="som" group-title="UK" geo-blocked="no",MM Somali TV
+https://cdn.mediavisionuk.com:9000/MMTV/index.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",MTA 3 Al-Arabia
+https://www.youtube-nocookie.com/embed/yNuxgTRjNrU
+#EXTINF:-1 tvg-language="urd" group-title="UK" geo-blocked="no",MTA1 World
+https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
+#EXTINF:-1 tvg-language="hin" group-title="UK" geo-blocked="no",MTA2 Europe
+https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
+#EXTINF:-1 tvg-language="hin" group-title="UK" geo-blocked="no",MTA2 Europe
+https://www.youtube-nocookie.com/embed/TEGnBvhnCj0
+#EXTINF:-1 tvg-language="ara" group-title="UK" geo-blocked="no",MTA3 Al-Arabia
+https://chlivemta1.akamaized.net/hls/live/2010556/mta3alarabia/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",MTA4 Africa
+https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",MTA5 Africa
+https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8
+#EXTINF:-1 tvg-language="urd" group-title="UK" geo-blocked="no",MTA6 Asia
+https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
+#EXTINF:-1 tvg-language="urd" group-title="UK" geo-blocked="no",MTA6 Asia
+https://www.youtube-nocookie.com/embed/Oq5CeKvMBwI
+#EXTINF:-1 tvg-language="hin" group-title="UK" geo-blocked="no",MTA7 Asia
+https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",MTA8 America
+https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",MTA8 America
+https://www.youtube-nocookie.com/embed/xk8Tm0ZnhXM
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 tvg-language="urd" group-title="UK" geo-blocked="no",Noor TV
+https://sscsott.com/srt/noortvuk/index.fmp4.m3u8
+#EXTINF:-1 tvg-language="urd" group-title="UK" geo-blocked="no",Noor TV
+https://sscsott.com/srt/noortvuk/index.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Pop Up
+https://jmp2.uk/sam-GB25000016G.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",QVC UK
+https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",QVC UK Beauty
+https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",QVC UK Beauty
+https://www.youtube-nocookie.com/embed/98InJ_zpU2Y
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",QVC UK Extra
+https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",QVC UK Extra
+https://www.youtube-nocookie.com/embed/bql3HNmYh1Q
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",QVC UK Main
+https://www.youtube-nocookie.com/embed/Q4VQVVRVTXM
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",QVC UK Style
+https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",QVC UK Style
+https://www.youtube-nocookie.com/embed/eWwHYPOilEQ
+#EXTINF:-1 tvg-language="" group-title="UK" geo-blocked="no",Rakuten Top Movies UK
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Safeer TV
+https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Shaun the Sheep Official
+https://www.youtube-nocookie.com/embed/3ejNyEijOzY
+#EXTINF:-1 tvg-language="fas" group-title="UK" geo-blocked="no",Simaye Azadi
+https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Sky News
+https://www.youtube-nocookie.com/embed/YDvsBbKfLPA
+#EXTINF:-1 tvg-language="rus" group-title="UK" geo-blocked="no",Soviet Toons: Ну, погоди!
+https://www.youtube-nocookie.com/embed/6LZqtJjU3gA
+#EXTINF:-1 tvg-language="" group-title="UK" geo-blocked="no",Strongman
+https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Talk
+https://www.youtube-nocookie.com/embed/DFYaNjzI1aI
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",talkSPORT
+https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Teletubbies: Teletubbies, Let's Go!
+https://www.youtube-nocookie.com/embed/scyEft1HmYo
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",TJC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",TJC
+https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(HDTJCcustomGFX)/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",TJC Style
+https://www.youtube-nocookie.com/embed/Zswxn5QW_54
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Top Gear Classic
+https://www.youtube-nocookie.com/embed/RGizsDttnY0
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Trace Hits
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",TV Warehouse
+https://tvwarehouse.r.worldssl.net/mystream.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",V2BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",WildBrain Kids
+https://www.youtube-nocookie.com/embed/CzWq54WESp8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",WildEarth
+https://wildearth-xumo.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Wonder
+https://lds-wonder-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Wonder
+https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",Wonder
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="UK" geo-blocked="no",YAAAS!
+https://jmp2.uk/sam-GB340000289.m3u8

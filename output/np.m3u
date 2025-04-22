@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="nep" group-title="NP" geo-blocked="no",Capital TV
+https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
+#EXTINF:-1 tvg-language="dhw" group-title="NP" geo-blocked="no",Paryawaran TV
+https://webtv-stream.nettv.com.np/broadcaster/Paryawaran.stream/playlist.m3u8

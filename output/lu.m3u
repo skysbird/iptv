@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="ltz" group-title="LU" geo-blocked="no",apart TV
+https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
+#EXTINF:-1 tvg-language="ltz" group-title="LU" geo-blocked="no",Chamber TV
+https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="ltz" group-title="LU" geo-blocked="no",Dudelange TV
+https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8
+#EXTINF:-1 tvg-language="ltz" group-title="LU" geo-blocked="no",eldo.TV
+https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8
+#EXTINF:-1 tvg-language="ltz" group-title="LU" geo-blocked="no",Hesper TV
+https://streamer20.multimedia.blue/Eltrona/HesperangeTV/playlist.m3u8
+#EXTINF:-1 tvg-language="ltz" group-title="LU" geo-blocked="no",Mamer TV
+https://streamer20.multimedia.blue/Eltrona/MamerTV/playlist.m3u8
+#EXTINF:-1 tvg-language="ltz" group-title="LU" geo-blocked="no",MierschTV
+https://streamer20.multimedia.blue/Eltrona/merschTV/playlist.m3u8
+#EXTINF:-1 tvg-language="ltz" group-title="LU" geo-blocked="no",Pétange Info TV
+https://streamer20.multimedia.blue/Eltrona/PetangeTV/playlist.m3u8
+#EXTINF:-1 tvg-language="ltz" group-title="LU" geo-blocked="no",RTL Gold
+https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="LU" geo-blocked="no",RTL Today Radio
+https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8

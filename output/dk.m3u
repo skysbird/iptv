@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="dan" group-title="DK" geo-blocked="no",DanmarkC TV
+https://www.youtube-nocookie.com/embed/OfPsPmH0et4
+#EXTINF:-1 tvg-language="dan" group-title="DK" geo-blocked="no",DRTV
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
+#EXTINF:-1 tvg-language="dan" group-title="DK" geo-blocked="no",Folketinget
+https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-language="dan" group-title="DK" geo-blocked="no",TV2 Nord
+https://cdnapi.kaltura.com/p/1956931/sp/195693100/playManifest/entryId/1_h9yfe7h2/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-language="dan" group-title="DK" geo-blocked="no",TV2/Bornholm
+https://cdn-akamai-live.tv2bornholm.dk/stream/live/playlist.m3u8

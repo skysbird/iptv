@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="ben" group-title="BD" geo-blocked="no",Channel 24
+https://www.youtube-nocookie.com/embed/iKrmSsRXYcE
+#EXTINF:-1 tvg-language="ben" group-title="BD" geo-blocked="no",Channel i News
+https://www.youtube-nocookie.com/embed/3Us91R-gGx8
+#EXTINF:-1 tvg-language="ben" group-title="BD" geo-blocked="no",DBC NEWS
+https://www.youtube-nocookie.com/embed/cEg9y3PpT8w
+#EXTINF:-1 tvg-language="ben" group-title="BD" geo-blocked="no",Desh TV
+https://www.youtube-nocookie.com/embed/Vk5ghKmKkvg
+#EXTINF:-1 tvg-language="ben" group-title="BD" geo-blocked="no",Ekattor TV
+https://www.youtube-nocookie.com/embed/9CPndzn50i0
+#EXTINF:-1 tvg-language="ben" group-title="BD" geo-blocked="no",Ekhon TV
+https://www.youtube-nocookie.com/embed/i-mWMkYmaxs
+#EXTINF:-1 tvg-language="ben" group-title="BD" geo-blocked="no",Ekushey TV
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 tvg-language="ben" group-title="BD" geo-blocked="no",Independent Television
+https://www.youtube-nocookie.com/embed/K6urm4sejRk
+#EXTINF:-1 tvg-language="ben" group-title="BD" geo-blocked="no",Jamuna TV
+https://www.youtube-nocookie.com/embed/6RB19W3FlA0
+#EXTINF:-1 tvg-language="ben" group-title="BD" geo-blocked="no",Madani Channel Bangla
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+#EXTINF:-1 tvg-language="ben" group-title="BD" geo-blocked="no",Madani Channel Bangla
+https://www.youtube-nocookie.com/embed/KDN2rWUfrIQ
+#EXTINF:-1 tvg-language="ben" group-title="BD" geo-blocked="no",NTV Live 
+https://www.youtube-nocookie.com/embed/HRYSQ90PZDY
+#EXTINF:-1 tvg-language="ben" group-title="BD" geo-blocked="no",Rtv News
+https://www.youtube-nocookie.com/embed/exnHHtrMg5k
+#EXTINF:-1 tvg-language="ben" group-title="BD" geo-blocked="no",Somoy TV
+https://www.youtube-nocookie.com/embed/3nthZSRKOJ8

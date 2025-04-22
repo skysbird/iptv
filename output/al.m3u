@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="sqi" group-title="AL" geo-blocked="no",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-language="sqi" group-title="AL" geo-blocked="no",Euronews Albania
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8
+#EXTINF:-1 tvg-language="sqi" group-title="AL" geo-blocked="no",Euronews Albania
+https://www.youtube-nocookie.com/embed/h6c_e_6kOYQ
+#EXTINF:-1 tvg-language="sqi" group-title="AL" geo-blocked="no",News 24
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-language="sqi" group-title="AL" geo-blocked="no",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-language="sqi" group-title="AL" geo-blocked="no",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-language="sqi" group-title="AL" geo-blocked="no",Syri
+https://stream.syritv.al/SyriTV/index.m3u8
+#EXTINF:-1 tvg-language="sqi" group-title="AL" geo-blocked="no",Tropoja TV
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="sqi" group-title="AL" geo-blocked="no",Zjarr TV
+https://cdn.jwplayer.com/live/events/r2qgHu7W.m3u8

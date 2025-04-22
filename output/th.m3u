@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",3HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",13 Siam Thai
+https://live.x2.co.th/live/13livetv-th.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",Amarin TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",Boonniyom TV
+https://live.x2.co.th/live/bntv.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",DLTV 1
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",DLTV 2
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",DLTV 3
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",DLTV 4
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",DLTV 5
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",DLTV 6
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",DLTV 7
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",DLTV 8
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",DLTV 9
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",DLTV 10
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",DLTV 11
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",DLTV 12
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",DLTV 13
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",DLTV 14
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",DLTV 15
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",Esan TV
+https://psiiptv-b.sky-cdn.com/ttd20-playlist/index.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",GMM 25
+https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",JKN 18
+https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",Nation TV
+https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",ONE HD 31
+https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",Police TV
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",Suwannabhumi Channel
+https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",T Sports 7
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",Thai Chaiyo
+https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",Thai Parliament TV
+https://tv-live.tpchannel.org/live/tv.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",Thairath TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",TNN 16
+https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",Top News
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",True 4U (720)
+https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",TV Muslim Thailand
+https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",TV5 HD
+https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",Workpoint TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8
+#EXTINF:-1 tvg-language="tha" group-title="TH" geo-blocked="no",Zabb Channel
+https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8

@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="eng" group-title="AU" geo-blocked="no",2GB Sydney
+https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="AU" geo-blocked="no",3AW Melbourne
+https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="AU" geo-blocked="no",6PR Perth
+https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
+#EXTINF:-1 tvg-language="" group-title="AU" geo-blocked="no",10 Bold Adelaide
+https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="AU" geo-blocked="no",ABC Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="AU" geo-blocked="no",ABC News Australia
+https://www.youtube-nocookie.com/embed/vOTiJkg1voo
+#EXTINF:-1 tvg-language="eng" group-title="AU" geo-blocked="no",ausbiz TV
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="AU" geo-blocked="no",C31 Melbourne
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="AU" geo-blocked="no",Channel 44
+https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="AU" geo-blocked="no",CTB Perth
+https://live.ctbperth.net.au/hls/0/stream.m3u8
+#EXTINF:-1 tvg-language="" group-title="AU" geo-blocked="no",CTB Perth Movies
+https://movies.ctbperth.net.au/hls/stream.m3u8
+#EXTINF:-1 tvg-language="" group-title="AU" geo-blocked="no",CTB Perth News
+https://news.ctbperth.net.au/hls/stream.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="AU" geo-blocked="no",Expo Channel
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="AU" geo-blocked="no",Force Thirteen Earthquakes
+https://www.youtube-nocookie.com/embed/DBP8Arz51pc
+#EXTINF:-1 tvg-language="eng" group-title="AU" geo-blocked="no",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="AU" geo-blocked="no",Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="AU" geo-blocked="no",Sky News Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="AU" geo-blocked="no",Sky News Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="AU" geo-blocked="no",TVSN
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="AU" geo-blocked="no",TVSN
+https://www.youtube-nocookie.com/embed/GNZa-miA1jc
+#EXTINF:-1 tvg-language="eng" group-title="AU" geo-blocked="no",TVSN: Beauty
+https://www.youtube-nocookie.com/embed/LxHRO8cutBI
+#EXTINF:-1 tvg-language="eng" group-title="AU" geo-blocked="no",TVSN: Jewellery
+https://www.youtube-nocookie.com/embed/a1fA3lTiGTw
+#EXTINF:-1 tvg-language="eng" group-title="AU" geo-blocked="no",TVSN: Style
+https://www.youtube-nocookie.com/embed/B7gTPLmr9Q8

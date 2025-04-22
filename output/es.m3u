@@ -1,0 +1,269 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="cat" group-title="ES" geo-blocked="no",3/24
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",7 TeleValencia
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",7 Televisión Región de Murcia
+https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",12TV Alicante
+https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",24 Horas Internacional
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",101tv Antequera
+https://www.streaming101tv.es:19360/antequera/antequera.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",101tv Axarquia
+https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Activa TV
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Afortunadas TV
+https://cloudvideo.servers10.com:8081/8108/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Alcarria TV
+https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Aqui No Hay Quien Viva
+https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Aragón TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Atresplayer Clasicos
+https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Atresplayer Comedia
+https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Atresplayer Inquietos
+https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Atresplayer Multicine
+https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
+#EXTINF:-1 tvg-language="cat" group-title="ES" geo-blocked="no",Betevé
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Bluey - Español Canal Oficial
+https://www.youtube-nocookie.com/embed/CtV1HYd0Dlo
+#EXTINF:-1 tvg-language="cat" group-title="ES" geo-blocked="no",Bon Dia TV
+https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8
+#EXTINF:-1 tvg-language="cat" group-title="ES" geo-blocked="no",Burriana TV
+https://www.burrianateve.com/hls/btv.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Cadena Elite
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Canal 1 Mar Menor-Torre Pacheco
+https://directo.tuwebtv.es/canal1.m3u8
+#EXTINF:-1 tvg-language="cat" group-title="ES" geo-blocked="no",Canal 3 Biar
+https://avantstreaming.es/hls/canal3.m3u8
+#EXTINF:-1 tvg-language="cat" group-title="ES" geo-blocked="no",Canal 4 Catalunya
+https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
+#EXTINF:-1 tvg-language="cat" group-title="ES" geo-blocked="no",Canal 4 Mallorca
+https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Canal 4 Mancha Centro
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Canal 24 Horas
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Canal 24 Horas
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Canal 24 Horas Canarias
+https://rtvelivestream.akamaized.net/rtvesec/can/24h_can_main_dvr.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Canal 24 Horas Canarias
+https://ztnr.rtve.es/ztnr/5473142.m3u8
+#EXTINF:-1 tvg-language="cat" group-title="ES" geo-blocked="no",Canal 24 Horas Catalunya
+https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_dvr.m3u8
+#EXTINF:-1 tvg-language="cat" group-title="ES" geo-blocked="no",Canal 24 Horas Catalunya
+https://ztnr.rtve.es/ztnr/4952053.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Canal 45
+https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Canal Diocesano
+https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Canal Doñana
+https://secure5.todostreaming.es/live/division-alm.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Canal Málaga RTV
+https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Canal Parlamento
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Canal San Roque
+https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Canal Sierra de Cádiz
+https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Canal Sur Andalucía
+https://www.youtube-nocookie.com/embed/rz-cxTvLlJU
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Canal Sur Andalucía 2
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Canal Taronja Anoia
+https://ingest1-video.streaming-pro.com/canaltaronja/anoia/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Canal Taronja Comarques Centrals
+https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8
+#EXTINF:-1 tvg-language="cat" group-title="ES" geo-blocked="no",Canal Terres de L'Ebre
+https://ingest1-video.streaming-pro.com/canalteABR/ctestream/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Clan TVE Internacional
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Costa Noroeste TV
+https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Cristiana TV
+https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Distrito TV
+https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+#EXTINF:-1 tvg-language="eus" group-title="ES" geo-blocked="no",Durangaldeko Telebista
+https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",El Confidencial TV
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",El Futuro En tu Mano
+https://www.youtube-nocookie.com/embed/T-7kpuuMJD4
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",El Hormiguero
+https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",EL PAÍS TV
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",El Toro TV
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:-1 tvg-language="cat" group-title="ES" geo-blocked="no",Empordà TV
+https://video3.lhdserver.es/empordatv2/live.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Equipo de Investigacion
+https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",EsTuTele
+https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
+#EXTINF:-1 tvg-language="eus" group-title="ES" geo-blocked="no",ETB 1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",ETB 2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",ETB Basque
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Fisica o Quimica
+https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61.m3u8
+#EXTINF:-1 tvg-language="cat" group-title="ES" geo-blocked="no",Fitel TV
+https://tv.mywifisocial.es/live.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Flooxer
+https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Goiena Eus
+https://zuzenean.goienamedia.eus/goiena-telebista.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Guada TV
+https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Hamaika Telebista
+https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",La 8 Mediterráneo
+https://streaming004.gestec-video.com/hls/8TV.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",La Urban TV
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",LaOtra
+https://laotra-1-23-secure2.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-language="ron" group-title="ES" geo-blocked="no",LiraTV
+https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Logos TV
+https://streamer1.streamhost.org/salive/logosH/master.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Logos TV Estudio
+https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Logos TV Kids
+https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Logos TV Salud
+https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",M95 Televisión Marbella
+https://limited2.todostreaming.es/live/m95-livestream.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Mijas 3.40TV
+https://streaming004.gestec-video.com/hls/MIJAS.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Mírame TV
+https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",MyTime movie network Spain
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",NatureTime
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Noroeste TV
+https://cloudvideo.servers10.com:8081/8032/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Onda 15 TV
+https://cloudvideo.servers10.com:8081/8034/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Onda Algeciras TV
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Onda Madrid
+https://tvradio-1-23-secure2.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Onda Valencia
+https://cloudvideo.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Pequeradio
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Platzi TV
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="ES" geo-blocked="no",POP World TV
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Popular TV Cantabria
+https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Popular TV Murcia
+https://cloud.fastchannel.es/mic/manifiest/populartvrm.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Punt 3 Vall Uixó
+https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Radio Carnaval TV
+https://eu1.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Radio Televisión Melilla
+https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Rakuten Viki
+https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Rakuten Viki
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/048a962c-e84b-4a0e-aeb3-98376f4b9953/2.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Real Madrid TV US Version
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Ribera TV
+https://common01.todostreaming.es/live/ribera-livestream.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Rioja Televisión
+https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
+#EXTINF:-1 tvg-language="ron" group-title="ES" geo-blocked="no",ROTV Valencia
+https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",RTV Marbella
+https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",RTV Vida
+https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",RTVE Noticias 24H
+https://www.youtube-nocookie.com/embed/7_srED6k0bE
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Sevilla FC TV
+https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Sol Música
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Solidaria TV
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:-1 tvg-language="eus" group-title="ES" geo-blocked="no",STZ Telebista
+https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Tarotéame
+https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",TarotVisión
+https://stream.andalhost.com/hls/tarotvision.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",TBN España
+https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Teleganés
+https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Telemadrid
+https://telemadrid-23-secure2.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Telemadrid
+https://www.youtube-nocookie.com/embed/u0KYoFaxRIo
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Telemadrid Internacional
+https://new-international-23-secure2.akamaized.net/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",TeleVigo
+https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Televisión Aranda
+https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",TELEVISIÓN Canaria
+https://www.youtube-nocookie.com/embed/6LlZXt8nk4s
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Televisión Consciente
+https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8
+#EXTINF:-1 tvg-language="" group-title="ES" geo-blocked="no",The Pet Collective
+https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Trece TV
+https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Trece TV
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="cat" group-title="ES" geo-blocked="no",TV Almassora
+https://live.fullsport.es/hls/tvalmassora.m3u8
+#EXTINF:-1 tvg-language="" group-title="ES" geo-blocked="no",Tv Famypanc HD
+https://panel.host-live.com:19360/8042/8042.m3u8
+#EXTINF:-1 tvg-language="cat" group-title="ES" geo-blocked="no",TV Sabadell-Vallès
+https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8
+#EXTINF:-1 tvg-language="cat" group-title="ES" geo-blocked="no",TV3CAT
+https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",TVE Internacional America
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",TVE Star HD
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",TVM Córdoba
+https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8
+#EXTINF:-1 tvg-language="cat" group-title="ES" geo-blocked="no",TVReus
+https://eu1.servers10.com:8081/8166/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Univers TV
+https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
+#EXTINF:-1 tvg-language="eus" group-title="ES" geo-blocked="no",Urola Telebista
+https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="ES" geo-blocked="no",Verbena TV
+https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="ES" geo-blocked="no",XPTV US
+https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="ES" geo-blocked="no",XPTV1
+https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="ES" geo-blocked="no",XPTV2
+https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8

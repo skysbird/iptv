@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="ara" group-title="IQ" geo-blocked="no",ABNsat
+https://mediaserver.abnvideos.com/streams/abnsat.m3u8
+#EXTINF:-1 tvg-language="kur" group-title="IQ" geo-blocked="no",Afarin Baxcha
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-language="kur" group-title="IQ" geo-blocked="no",Afarin TV
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="IQ" geo-blocked="no",Al Iraqia
+https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="IQ" geo-blocked="no",Al Iraqia News
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="IQ" geo-blocked="no",Al Rasheed TV
+https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="IQ" geo-blocked="no",Al-Jawadain TV
+https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="IQ" geo-blocked="no",Al-Sharqiya
+https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="IQ" geo-blocked="no",Al-Sharqiya News
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="IQ" geo-blocked="no",Alawla TV
+https://63b03f7689049.streamlock.net/live/1tv/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="IQ" geo-blocked="no",Alqanat9 TV
+https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="IQ" geo-blocked="no",Alquran
+https://ktvlive.online/stream/hls/ch1.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="IQ" geo-blocked="no",BeitolAbbas TV Channel
+https://live.beitolabbas.tv/live/beitolabbastv.m3u8
+#EXTINF:-1 tvg-language="kur" group-title="IQ" geo-blocked="no",Channel 8
+https://www.youtube-nocookie.com/embed/gqPHxftGwzw
+#EXTINF:-1 tvg-language="ara" group-title="IQ" geo-blocked="no",Dijlah Tarab
+https://ghaasiflu.online/tarab/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="IQ" geo-blocked="no",Dijlah TV
+https://ghaasiflu.online/Dijlah/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="IQ" geo-blocked="no",iNEWS TV
+https://live.i-news.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-language="kur" group-title="IQ" geo-blocked="no",Kurdistan24
+https://www.youtube-nocookie.com/embed/tGOo1zN3Mcw
+#EXTINF:-1 tvg-language="kur" group-title="IQ" geo-blocked="no",KurdMax Music
+https://6476e46b58f91.streamlock.net/music/livestream/playlist.m3u8
+#EXTINF:-1 tvg-language="ckb" group-title="IQ" geo-blocked="no",KurdMax Sorani
+https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="IQ" geo-blocked="no",Marjaeyat TV Arabic
+https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="IQ" geo-blocked="no",Marjaeyat TV English
+https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="IQ" geo-blocked="no",Marjaeyat TV Persian
+https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="IQ" geo-blocked="no",MBC Iraq
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+#EXTINF:-1 tvg-language="kur" group-title="IQ" geo-blocked="no",NRT TV
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+#EXTINF:-1 tvg-language="kur" group-title="IQ" geo-blocked="no",Payam TV
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+#EXTINF:-1 tvg-language="kur" group-title="IQ" geo-blocked="no",Rudaw TV
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="IQ" geo-blocked="no",Shams TV
+https://stream.shams.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-language="kur" group-title="IQ" geo-blocked="no",Waar TV
+https://ca-rt.onetv.app/Waar/index-0.m3u8
+#EXTINF:-1 tvg-language="" group-title="IQ" geo-blocked="no",Zarok TV Sorani
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8

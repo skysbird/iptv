@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="ukr" group-title="UA" geo-blocked="no",5 канал
+https://www.youtube-nocookie.com/embed/DGqjKNW8A3A
+#EXTINF:-1 tvg-language="rus" group-title="UA" geo-blocked="no",24 Канал онлайн
+https://www.youtube-nocookie.com/embed/BPW4PTdBWEA
+#EXTINF:-1 tvg-language="ukr" group-title="UA" geo-blocked="no",Avers
+https://avers.pp.ua/hls/efir.m3u8
+#EXTINF:-1 tvg-language="ukr" group-title="UA" geo-blocked="no",BTQ - Телеканал
+https://www.youtube-nocookie.com/embed/apKuTA1Jq58
+#EXTINF:-1 tvg-language="ukr" group-title="UA" geo-blocked="no",Espreso
+https://www.youtube-nocookie.com/embed/ScdUZNkwcYc
+#EXTINF:-1 tvg-language="ukr" group-title="UA" geo-blocked="no",EWTN Ukraine
+https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="UA" geo-blocked="no",Freedom (FREEДOM) (UATV)
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="UA" geo-blocked="no",Freedom (FREEДOM) (UATV) 
+https://www.youtube-nocookie.com/embed/TH2ORroSTgE
+#EXTINF:-1 tvg-language="ukr" group-title="UA" geo-blocked="no",GIT
+https://stream.uagit.tv/gittv.m3u8
+#EXTINF:-1 tvg-language="ukr" group-title="UA" geo-blocked="no",ITV
+https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
+#EXTINF:-1 tvg-language="ukr" group-title="UA" geo-blocked="no",Izmail TV
+https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
+#EXTINF:-1 tvg-language="ukr" group-title="UA" geo-blocked="no",M2
+https://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 tvg-language="ukr" group-title="UA" geo-blocked="no",PTV
+https://cdn10.live-tv.cloud/hrpl/hrpl-abr/playlist.m3u8
+#EXTINF:-1 tvg-language="ukr" group-title="UA" geo-blocked="no",SONATA TV
+https://www.youtube-nocookie.com/embed/I2mWqNL0IsY
+#EXTINF:-1 tvg-language="ukr" group-title="UA" geo-blocked="no",TIS TV
+https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
+#EXTINF:-1 tvg-language="ukr" group-title="UA" geo-blocked="no",TV Rivne 1
+https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
+#EXTINF:-1 tvg-language="ukr" group-title="UA" geo-blocked="no",Z (Запорожье)
+https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1 tvg-language="ukr" group-title="UA" geo-blocked="no",Ланет.TV
+https://kiev1-cdn.lanet.tv/live/1008.m3u8
+#EXTINF:-1 tvg-language="ukr" group-title="UA" geo-blocked="no",Ми - Україна
+https://www.youtube-nocookie.com/embed/Mv6PEi0hRmg
+#EXTINF:-1 tvg-language="ukr" group-title="UA" geo-blocked="no",Суспільне Новини
+https://www.youtube-nocookie.com/embed/o4XONrDJWsc
+#EXTINF:-1 tvg-language="ukr" group-title="UA" geo-blocked="no",Сфера-ТВ
+https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="UA" geo-blocked="no",Телеканал 1+1: UAразом
+https://www.youtube-nocookie.com/embed/j5TqaWCCdUg
+#EXTINF:-1 tvg-language="ukr" group-title="UA" geo-blocked="no",Телеканал Конкурент TV
+https://www.youtube-nocookie.com/embed/mUSJPtIICGg
+#EXTINF:-1 tvg-language="ukr" group-title="UA" geo-blocked="no",Телеканал Прямий
+https://www.youtube-nocookie.com/embed/-9FO57Sk_oY
+#EXTINF:-1 tvg-language="ukr" group-title="UA" geo-blocked="no",Телеканал Рада
+https://www.youtube-nocookie.com/embed/ecD39ojnQxQ
+#EXTINF:-1 tvg-language="ukr" group-title="UA" geo-blocked="no",Тернопіль 1
+https://ott.columbus.te.ua/ternopil1/index.m3u8
+#EXTINF:-1 tvg-language="ukr" group-title="UA" geo-blocked="no",ТСН: Єдині новини: 1+1
+https://www.youtube-nocookie.com/embed/WY8sDvZdWEA
+#EXTINF:-1 tvg-language="ukr" group-title="UA" geo-blocked="no",ТСН: Марафон новин
+https://www.youtube-nocookie.com/embed/kA5EvhyCugE
+#EXTINF:-1 tvg-language="ukr" group-title="UA" geo-blocked="no",Тюсо
+https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
+#EXTINF:-1 tvg-language="ukr" group-title="UA" geo-blocked="no",ЦЕНТР
+https://www.youtube-nocookie.com/embed/vHRigitJ--o

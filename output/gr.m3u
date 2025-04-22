@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",1062 Mad Radio Live
+https://www.youtube-nocookie.com/embed/jWISSSH-Who
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Acheloos TV
+https://acheloostv.streamings.gr/live/stream/index.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Aeolos TV
+https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Alert
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Astra TV
+https://ssh101.bozztv.com/ssh101/astratv/playlist.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Baraza TV Relaxing
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Blue Sky TV
+https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Diavata TV
+https://ssh101.bozztv.com/ssh101/diavatatvweb/playlist.m3u8
+#EXTINF:-1 tvg-language="gmy" group-title="GR" geo-blocked="no",Diktyo TV
+https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Dipso TV
+https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",ecclesiaTV.gr
+https://www.youtube-nocookie.com/embed/baIqpDGAB50
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Epiloges TV
+https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Faros TV
+https://s1.cystream.net/live/faros1/playlist.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Faros TV2
+https://s1.cystream.net/live/faros2/playlist.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Gnomi TV
+https://live.streams.ovh:8081/gnomitv/index.m3u8
+#EXTINF:-1 tvg-language="" group-title="GR" geo-blocked="no",Hellenic TV
+https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Ionian Channel
+https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Kontra Channel
+https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Lychnos TV
+https://thor.mental-media.gr:19360/imp/imp.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Mad World
+https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Nea TV
+https://live.neatv.gr:8888/hls/neatv.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Nea TV
+https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Notioi TV
+https://srv.streamserver.gr:3451/stream/play.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",One Channel
+https://onechannel.siliconweb.com/one/stream/chunks.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Panik TV
+https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Pella TV
+https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Smile TV
+https://s1.cystream.net/live/smile/playlist.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",STAR International
+https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Start TV
+https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Telekriti
+https://neon.streams.gr:8081/telekriti/index.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Thraki Net TV
+https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",TV Creta
+https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Zougla TV
+https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Βουλή Τηλεόραση
+https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
+#EXTINF:-1 tvg-language="" group-title="GR" geo-blocked="no",Εγνατία Τηλεόραση
+https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="GR" geo-blocked="no",Εκκλησία
+https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8

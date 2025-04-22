@@ -1,0 +1,209 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="prs" group-title="CA" geo-blocked="no",Afghan Nobel Movies
+https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
+#EXTINF:-1 tvg-language="prs" group-title="CA" geo-blocked="no",Afghan Nobel TV
+https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:-1 tvg-language="hin" group-title="CA" geo-blocked="no",Apna Punjab TV
+https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="CA" geo-blocked="no",Assemblée Nationale du Québec
+https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/playlist.m3u8
+#EXTINF:-1 tvg-language="aze" group-title="CA" geo-blocked="no",Az Star TV
+https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Barney the Dinosaur
+https://www.youtube-nocookie.com/embed/IMcwz_v0SWw
+#EXTINF:-1 tvg-language="fra" group-title="CA" geo-blocked="no",Belmedia TV
+https://www.youtube-nocookie.com/embed/vViMl_BFrbE
+#EXTINF:-1 tvg-language="mal" group-title="CA" geo-blocked="no",C Malayalam TV
+https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Cable 14 Hamilton
+https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720
+#EXTINF:-1 tvg-language="fra" group-title="CA" geo-blocked="no",Canal Savoir
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",CBC News Network
+https://apollo.production-public.tubi.io/live/ac-cbc2.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",CBC News Network
+https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",CBC News Network
+https://www.youtube-nocookie.com/embed/5vfaDsMhCF4
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",CHCO-TV
+https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",CityNews Calgary
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",CityNews Toronto
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",CityNews Vancouver
+https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",CPAC
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1 tvg-language="ben" group-title="CA" geo-blocked="no",Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="CA" geo-blocked="no",DryBar Comedy
+https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="urd" group-title="CA" geo-blocked="no",Eawaz TV
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
+#EXTINF:-1 tvg-language="tam" group-title="CA" geo-blocked="no",EET TV
+https://eu.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",English Speeches: Learn English
+https://www.youtube-nocookie.com/embed/k_2FA6vyOgM
+#EXTINF:-1 tvg-language="fas" group-title="CA" geo-blocked="no",Erfan Halgheh TV
+https://hls.erfanhalgheh.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="" group-title="CA" geo-blocked="no",EWTN Canada
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Fugget About It
+https://www.youtube-nocookie.com/embed/lGxhMEJKvBw
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Game+
+https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Garfield & Friends
+https://www.youtube-nocookie.com/embed/LHwzSJzWglY
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",GH Canada TV
+https://stream.bozztv.com/tvstat-tamar/tvstat-tamar/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Gusto TV
+https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Gusto TV
+https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Gusto TV
+https://gusto-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="pan" group-title="CA" geo-blocked="no",Hamdard TV
+https://tv.hamdardtv.com/hamdard/index.m3u8
+#EXTINF:-1 tvg-language="" group-title="CA" geo-blocked="no",Holidayscapes
+https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
+#EXTINF:-1 tvg-language="hin" group-title="CA" geo-blocked="no",Hyder TV
+https://cdn.live247stream.com/hyder/tv/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",ICI Montreal
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="CA" geo-blocked="no",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",IIPC TV
+https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Legislative Assembly of British Columbia
+https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-house-httpo/HouseP.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Legislative Assembly of British Columbia Committee A
+https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-dougfir-httpo/DougFirP.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Legislative Assembly of Ontario
+https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="CA" geo-blocked="no",Legislative Assembly of Ontario (without interpretation)
+https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="CA" geo-blocked="no",Legislative Assembly of Ontario Committees (room 1)
+https://temp2.isilive.ca/live/_definst_/ontla/committee_1-en/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="CA" geo-blocked="no",Legislative Assembly of Ontario Committees (room 2)
+https://lin13.isilive.ca/live/_definst_/ontla/committee_2-en/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="CA" geo-blocked="no",Legislative Assembly of Ontario Committees (room 151)
+https://temp3.isilive.ca/live/_definst_/ontla/rm151-en/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Love Nature
+https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Love Nature
+https://bamus-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Love Nature
+https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",MHZ
+https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="CA" geo-blocked="no",NETV Toronto
+https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Newfoundland Television
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="CA" geo-blocked="no",Noovo Cinéma
+https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
+#EXTINF:-1 tvg-language="" group-title="CA" geo-blocked="no",Noovo Comédies
+https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8
+#EXTINF:-1 tvg-language="" group-title="CA" geo-blocked="no",Noovo Téléréalités
+https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Now TV 102.3FM Edmonton (CKNO-FM)
+https://videostream.jpbgdigital.com/NOWTV.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",NTV+
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Ontario Parliamentary Network
+https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Ontario Parliamentary Network
+https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="CA" geo-blocked="no",Parnian TV
+https://live2.parnian.tv/hls/.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Qello Concerts by Stingray
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="CA" geo-blocked="no",Radio Tele Evangile Sans Limite
+https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF:-1 tvg-language="pan" group-title="CA" geo-blocked="no",Sikh Spiritual Centre Rexdale
+https://cdn12.henico.net:8443/live/ssct/index.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Stingray CMusic
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Stingray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Stingray Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Stingray The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Stingray Today's KPOP
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Super Simple: Bedtime Songs
+https://www.youtube-nocookie.com/embed/38s55aCURwI
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Super Simple: Noodle and Pals
+https://www.youtube-nocookie.com/embed/A2qo1ONpt_U
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Super Simple: Simple Songs
+https://www.youtube-nocookie.com/embed/yK2B3Wech6o
+#EXTINF:-1 tvg-language="" group-title="CA" geo-blocked="no",The Jack Hannah Channel
+https://littonjackhannah-samsungca.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Today's Shopping Choice (TSC)
+https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Today's Shopping Choice (TSC)
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Total Drama: Revenge of the Island
+https://www.youtube-nocookie.com/embed/jH1S70mKD9c
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Total Drama: The Ridonculous Race
+https://www.youtube-nocookie.com/embed/vr1Uu9y6SHk
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",Total Drama: World Tour
+https://www.youtube-nocookie.com/embed/UBaxq2b6F6M
+#EXTINF:-1 tvg-language="" group-title="CA" geo-blocked="no",TSN The Ocho
+https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",TSN1
+https://v1.thetvapp.to/hls/tsn1/index.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",TSN2
+https://v1.thetvapp.to/hls/tsn2/index.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",TSN3
+https://v1.thetvapp.to/hls/tsn3/index.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",TSN4
+https://v1.thetvapp.to/hls/tsn4/index.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",TSN5
+https://v1.thetvapp.to/hls/tsn5/index.m3u8
+#EXTINF:-1 tvg-language="pan" group-title="CA" geo-blocked="no",TV Punjab
+https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="CA" geo-blocked="no",TV Témis
+https://www.youtube-nocookie.com/embed/2ARAtQhH0UQ
+#EXTINF:-1 tvg-language="prs" group-title="CA" geo-blocked="no",Watan-e-Maa TV
+https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CA" geo-blocked="no",WatchMojo.com
+https://www.youtube-nocookie.com/embed/CsTHvxP2fsg

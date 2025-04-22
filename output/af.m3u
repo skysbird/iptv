@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="pus" group-title="AF" geo-blocked="no",AMC
+https://amchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="AF" geo-blocked="no",ATN News
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
+#EXTINF:-1 tvg-language="kur" group-title="AF" geo-blocked="no",Bahar TV
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
+#EXTINF:-1 tvg-language="prs" group-title="AF" geo-blocked="no",Dunya Naw TV
+https://dunyanhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="pus" group-title="AF" geo-blocked="no",Eslah TV
+https://eslahtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="" group-title="AF" geo-blocked="no",Iman TV
+https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8
+#EXTINF:-1 tvg-language="pus" group-title="AF" geo-blocked="no",Kayhan TV
+https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="AF" geo-blocked="no",RTA
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/index.m3u8
+#EXTINF:-1 tvg-language="pus" group-title="AF" geo-blocked="no",RTA Education
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/index.m3u8
+#EXTINF:-1 tvg-language="pus" group-title="AF" geo-blocked="no",RTA News
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/index.m3u8
+#EXTINF:-1 tvg-language="pus" group-title="AF" geo-blocked="no",RTA Sport
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
+#EXTINF:-1 tvg-language="pus" group-title="AF" geo-blocked="no",Sharq Radio TV
+https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="AF" geo-blocked="no",Tamadon TV
+https://hls.tamadon.live/hls/stream.m3u8

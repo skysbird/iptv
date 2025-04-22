@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="srp" group-title="RS" geo-blocked="no",J.E.K.A. Muzzik
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1 tvg-language="srp" group-title="RS" geo-blocked="no",MUZZIK
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 tvg-language="srp" group-title="RS" geo-blocked="no",Muzzik ELECTRO
+https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="RS" geo-blocked="no",Muzzik FLASHBACK
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1 tvg-language="srp" group-title="RS" geo-blocked="no",Muzzik MOBA
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="RS" geo-blocked="no",Muzzik POP STAR
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 tvg-language="srp" group-title="RS" geo-blocked="no",Muzzik Rock&Roll
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="RS" geo-blocked="no",Muzzik SENSE
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+#EXTINF:-1 tvg-language="srp" group-title="RS" geo-blocked="no",Muzzik TIKTAK
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="RS" geo-blocked="no",Muzzik ZZ TV
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 tvg-language="srp" group-title="RS" geo-blocked="no",Radio Hit FM TV
+https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
+#EXTINF:-1 tvg-language="srp" group-title="RS" geo-blocked="no",Radio Karolina TV
+https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
+#EXTINF:-1 tvg-language="srp" group-title="RS" geo-blocked="no",Radio Lola
+https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
+#EXTINF:-1 tvg-language="srp" group-title="RS" geo-blocked="no",RTV AS
+https://srv1.adriatelekom.com/TVAS/index.m3u8
+#EXTINF:-1 tvg-language="srp" group-title="RS" geo-blocked="no",RTV Bap
+https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
+#EXTINF:-1 tvg-language="srp" group-title="RS" geo-blocked="no",SOS Kanal Plus
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+#EXTINF:-1 tvg-language="srp" group-title="RS" geo-blocked="no",TV Hram
+https://vod1.laki.eu/live/hram/index.m3u8
+#EXTINF:-1 tvg-language="srp" group-title="RS" geo-blocked="no",TV Pirot
+https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
+#EXTINF:-1 tvg-language="srp" group-title="RS" geo-blocked="no",Worldwide Muzzik
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8

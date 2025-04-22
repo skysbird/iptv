@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="zho" group-title="CN" geo-blocked="no",CCTV-4中文国际
+https://www.youtube-nocookie.com/embed/SdzewdkJa-o
+#EXTINF:-1 tvg-language="zho" group-title="CN" geo-blocked="no",CCTV+ 1
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="zho" group-title="CN" geo-blocked="no",CCTV+ 2
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CN" geo-blocked="no",CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CN" geo-blocked="no",CGTN
+https://english-livebkws.cgtn.com/live/encgtn.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CN" geo-blocked="no",CGTN Documentary
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="CN" geo-blocked="no",CGTN Documentary
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CN" geo-blocked="no",CGTN Español
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CN" geo-blocked="no",CGTN Español
+https://www.youtube-nocookie.com/embed/6PUEYnYDE-A
+#EXTINF:-1 tvg-language="eng" group-title="CN" geo-blocked="no",CGTN Europe
+https://www.youtube-nocookie.com/embed/_6dRRfnYJws
+#EXTINF:-1 tvg-language="zho" group-title="CN" geo-blocked="no",VOA美国之音
+https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+#EXTINF:-1 tvg-language="kaz" group-title="CN" geo-blocked="no",Xinjiang TV 3
+https://st-video.xjmty.com/fs/livedit/e55abfa37af26e19/8ce9971c2177b3dd.m3u8
+#EXTINF:-1 tvg-language="" group-title="CN" geo-blocked="no",上虞經濟文化
+https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+#EXTINF:-1 tvg-language="" group-title="CN" geo-blocked="no",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-language="" group-title="CN" geo-blocked="no",余姚姚江文化
+https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+#EXTINF:-1 tvg-language="" group-title="CN" geo-blocked="no",余姚新闻综合
+https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+#EXTINF:-1 tvg-language="" group-title="CN" geo-blocked="no",半岛新闻
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-language="" group-title="CN" geo-blocked="no",唯心電視
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+#EXTINF:-1 tvg-language="zho" group-title="CN" geo-blocked="no",小猪佩奇 中文官方 - Peppa Pig
+https://www.youtube-nocookie.com/embed/1SYVZ-70pnY
+#EXTINF:-1 tvg-language="" group-title="CN" geo-blocked="no",嵊州综合
+https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#EXTINF:-1 tvg-language="" group-title="CN" geo-blocked="no",新昌休闲影视
+https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+#EXTINF:-1 tvg-language="" group-title="CN" geo-blocked="no",新昌新聞綜合
+https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+#EXTINF:-1 tvg-language="" group-title="CN" geo-blocked="no",河源公共
+https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+#EXTINF:-1 tvg-language="" group-title="CN" geo-blocked="no",河源综合
+https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 tvg-language="" group-title="CN" geo-blocked="no",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-language="" group-title="CN" geo-blocked="no",浙江教科
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-language="" group-title="CN" geo-blocked="no",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-language="" group-title="CN" geo-blocked="no",浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-language="" group-title="CN" geo-blocked="no",浙江经济
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-language="" group-title="CN" geo-blocked="no",浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-language="" group-title="CN" geo-blocked="no",红牛REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-language="" group-title="CN" geo-blocked="no",餘姚姚江文化
+https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8

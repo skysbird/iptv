@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="ara" group-title="KW" geo-blocked="no",Al Maali TV
+https://kali.vdopanel.com:3797/live/bashaclicklive.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="KW" geo-blocked="no",KTV 1
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="KW" geo-blocked="no",KTV 1
+https://cdn-globecast.akamaized.net/live/eds/kuwait_tv1/hls_roku/index.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="KW" geo-blocked="no",KTV 2
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="KW" geo-blocked="no",KTV Al Qurain
+https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="KW" geo-blocked="no",KTV Arabe
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="KW" geo-blocked="no",KTV Ethraa
+https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="KW" geo-blocked="no",KTV News
+https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="KW" geo-blocked="no",KTV Sport
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="KW" geo-blocked="no",KTV Sport Plus
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="KW" geo-blocked="no",Marina TV
+https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8

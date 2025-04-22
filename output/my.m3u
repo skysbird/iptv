@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="msa" group-title="MY" geo-blocked="no",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:-1 tvg-language="msa" group-title="MY" geo-blocked="no",Astro Awani
+https://www.youtube-nocookie.com/embed/weCEi1NE0C8
+#EXTINF:-1 tvg-language="msa" group-title="MY" geo-blocked="no",Berita RTM
+https://www.youtube-nocookie.com/embed/thmWXOld-so
+#EXTINF:-1 tvg-language="msa" group-title="MY" geo-blocked="no",Dunia Sinema
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="MY" geo-blocked="no",Maah TV
+https://hls.maahtv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="msa" group-title="MY" geo-blocked="no",Molek TV
+https://www.youtube-nocookie.com/embed/Zt4PpCBH2Bo
+#EXTINF:-1 tvg-language="eng" group-title="MY" geo-blocked="no",RTM ASEAN
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 tvg-language="msa" group-title="MY" geo-blocked="no",SuriaTV
+https://www.youtube-nocookie.com/embed/ETlMgGYSF9A

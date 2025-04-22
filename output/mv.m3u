@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="eng" group-title="MV" geo-blocked="no",MMTV
+https://sendlive.online/hls/mmtv.m3u8
+#EXTINF:-1 tvg-language="div" group-title="MV" geo-blocked="no",SSTV
+https://sstv.ssplay.mv/hls/sstv-live/index.m3u8

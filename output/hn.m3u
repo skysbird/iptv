@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",504 TV
+https://mediacp.us:8081/504tvhn/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",Activa TV
+https://videoserver.tmcreativos.com:19360/mbcrtzxnxd/mbcrtzxnxd.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",Alsacias Televisión (ATV | Canal 28)
+https://s.emisoras.tv:8081/atv/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",Campus TV
+https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",Canal 11
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",Canal 15 DTP
+https://s.emisoras.tv:8081/dtp/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",Choluteca TV
+https://s.emisoras.tv:8081/cholutecatv/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",CTV Internacional
+https://mediacp.us:8081/ctvhn/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",Dios Te Ve
+https://s.emisoras.tv:8081/diostevetv/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",Dios Te Ve Kids
+https://s.emisoras.tv:8081/diostevekids/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",Ebenezer TV
+https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",Girasol TV
+https://video.misistemareseller.com/Girasoltv/Girasoltv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",JBN
+https://mediacp.us:8081/jbntv/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",Jehová TV
+https://video.misistemareseller.com/jehovatelevision/jehovatelevision/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",Kerusso TV
+https://s.emisoras.tv:8081/kerussotv/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",La Top 102.9
+https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",La Top 107.7
+https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",Lenca Television Canal 40
+https://lencatelevision.com/hls/stream.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",Litoral Atlántico HD
+https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",LTV
+https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",Metro TV
+https://s.emisoras.tv:8081/metrotv/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",Paradise TV
+https://s2.tvdatta.com:3840/live/paradisetvlive.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",Puringla TV
+https://stmv1.srvif.com/puringla/puringla/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",Q'hubo TV
+https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",Radio Ideal 104.7 FM (La Esperanza)
+https://www.idealfm104-7.com/hls/0/stream.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",Radio Imagen 105.1 FM
+https://streaming.imagenfm105-1.com/hls/stream.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",RCV TV
+https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",Telemás
+https://viewhn.com/telemas/live/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",Telerayo
+https://s.emisoras.tv:8081/telerayo/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",Televisión Comayagua Canal 40
+https://mediacp.us:8081/8034/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",Televisión Metrópolis 19.2
+https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",TV Centro 27.2 HD
+https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",TV Centro HD
+https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",TV Copán
+https://s.emisoras.tv:8081/tvcopan/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",VTV
+https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="HN" geo-blocked="no",Waldivisión Internacional
+https://cloud5.streaminglivehd.com:3114/live/tnnhonduraslive.m3u8

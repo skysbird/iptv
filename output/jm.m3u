@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="eng" group-title="JM" geo-blocked="no",Caribbean Gospel TV
+https://5a1178b42cc03.streamlock.net/CGTV2024/CGTV2024/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="JM" geo-blocked="no",Fame95 FM
+https://rjr-fame.akamaized.net/hls/live/2033820/RJR_FAME/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="JM" geo-blocked="no",MTM TV
+https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="JM" geo-blocked="no",Sydenham S.D.A Church
+https://www.youtube-nocookie.com/embed/Vn0AQlUSAQU

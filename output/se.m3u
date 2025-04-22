@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="kur" group-title="SE" geo-blocked="no",Aryen TV
+https://aryen.tv/live/tv/playlist.m3u8
+#EXTINF:-1 tvg-language="swe" group-title="SE" geo-blocked="no",Di TV
+https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8
+#EXTINF:-1 tvg-language="swe" group-title="SE" geo-blocked="no",Expressen TV
+https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
+#EXTINF:-1 tvg-language="kur" group-title="SE" geo-blocked="no",Komala TV
+https://live.tvkomala.com/live/komala/playlist.m3u8
+#EXTINF:-1 tvg-language="swe" group-title="SE" geo-blocked="no",LifeStyleTV
+https://app.viloud.tv/hls/channel/711fd3f3a4728449889ee22ba72958ff.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SE" geo-blocked="no",Miracle Channel
+https://miracle.stream.boxigy.com/hls/miracle1.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SE" geo-blocked="no",Miracle TV
+https://live.miraclechannel.com/hls/miracle1.m3u8
+#EXTINF:-1 tvg-language="" group-title="SE" geo-blocked="no",Mission Asia
+https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="SE" geo-blocked="no",Strongman Champions League
+https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="SE" geo-blocked="no",The Pet Collective Sweden
+https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8

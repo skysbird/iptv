@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="ara" group-title="IL" geo-blocked="no",Hala TV
+https://stream.panet.com/edge/halaTV/playlist.m3u8
+#EXTINF:-1 tvg-language="heb" group-title="IL" geo-blocked="no",Hidabroot
+https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="IL" geo-blocked="no",I24 News Arabic
+https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="IL" geo-blocked="no",I24 News English
+https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="IL" geo-blocked="no",I24 News French
+https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="IL" geo-blocked="no",I24 News Hebrew
+https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 tvg-language="heb" group-title="IL" geo-blocked="no",Kabbalah for the People (Israel)
+https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
+#EXTINF:-1 tvg-language="heb" group-title="IL" geo-blocked="no",KAN 11 Israel
+https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
+#EXTINF:-1 tvg-language="heb" group-title="IL" geo-blocked="no",Kan Kids
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="IL" geo-blocked="no",Makan 33
+https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+#EXTINF:-1 tvg-language="heb" group-title="IL" geo-blocked="no",Now 14
+https://www.youtube-nocookie.com/embed/BzL8Nw6GgCM
+#EXTINF:-1 tvg-language="fas" group-title="IL" geo-blocked="no",Ran TV Israel
+https://streaminglive.co.il:3730/live/raniamranilive.m3u8
+#EXTINF:-1 tvg-language="heb" group-title="IL" geo-blocked="no",Reshet 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:-1 tvg-language="heb" group-title="IL" geo-blocked="no",Shelanu TV
+https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
+#EXTINF:-1 tvg-language="heb" group-title="IL" geo-blocked="no",שלנו
+https://www.youtube-nocookie.com/embed/DUUrSDDnHmI

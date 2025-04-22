@@ -1,0 +1,131 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",13 Festival
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",24 Horas
+https://www.youtube-nocookie.com/embed/bad5HyO2SGo
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Atacama Noticias
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Atacama TV (Copiapó)
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Aysen TV
+https://v1.tustreaming.cl/aysentv/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Campus TV (Talca)
+https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Canal 2 (San Antonio)
+https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Canal 9 Bío Bío Televisión
+https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Canal 74 San Antonio
+https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Canal ISB (Iglesia San Bernardo)
+https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Canal SCN
+https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Caracola TV (Peñalolén)
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Casa Sobre La Roca TV
+https://cp.panelchs.com:1936/8118/8118/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Chile Channel
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Chiloe Red 25
+https://v2.tustreaming.cl/chiloered/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Click TV (Coronel)
+https://v2.tustreaming.cl/clicktv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Contivision
+https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Dance FM
+https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",EGM Channel
+https://paneltv.online:1936/8186/8186/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",EnerGeek
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",EnerGeek Radio
+https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",EnerGeek Radio
+https://xui-backend.energeek.cl/live/11/playlist.m3u8?username=dEmoweBeneRGEek2025&password=FK8tJm5kBxetEDAXSLDF
+#EXTINF:-1 tvg-language="" group-title="CL" geo-blocked="no",Fanpop TV
+https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Hiperconectados TV
+https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Holvoet TV (Copiapó)
+https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Iquique TV
+https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",ITV Patagonia
+https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Kanade
+https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Kanade
+https://xui-backend.energeek.cl/live/deM0kanADeweB/Cerq7EpWHiWDuHTJ8ikz/13.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",La Chilena TV
+https://vdochile.com:3134/hybrid/play.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Meganoticias
+https://www.youtube-nocookie.com/embed/PDw0Rxx5x5c
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",NCTV
+https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",NTV
+https://marine2.miplay.cl/ntv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Pichilemu TV
+https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Pucón TV
+https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Puranoticia TV
+https://pnt.janusmedia.tv/hls/pnt.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Radio Ritmo
+https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Restaurando Vidas Internacional
+https://v4.tustreaming.cl/restaurandovida/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Spectrum Channel
+https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",T-Vinet
+https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",T13
+https://www.youtube-nocookie.com/embed/R_V7FhsCPwM
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Tele 2 Web (Retiro)
+https://inliveserver.com:1936/11516/11516/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Teletrak
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Televida
+https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Televisión del Senado
+https://www.youtube-nocookie.com/embed/w5iSv3YnVQc
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Tevex
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Thema Televisión (La Serena)
+https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Thema Televisión (La Serena)
+https://unlimited6-cl.dps.live/thema/thema.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",TMN TV
+https://v1.tustreaming.cl/tmntv/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",TNE
+https://v2.tustreaming.cl/tnetv/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Turf Movil
+https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",TV MÁS 2
+https://marine2.miplay.cl/tateti/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",TV Senado
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",TV UCT
+https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",TVR
+https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",TVU Concepción
+https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",UCV TV
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",UESTV
+https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",UMAGTV 2
+https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",Universidad Autónoma Temuco (UATV)
+https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",UTV
+https://v2.tustreaming.cl/utv/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",VC Online
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",VTV Valle de Aconcagua
+https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="CL" geo-blocked="no",VTV Valle de Aconcagua
+https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8

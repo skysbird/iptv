@@ -1,0 +1,401 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="fas" group-title="TR" geo-blocked="no",4U TV
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",24 TV
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",24 TV
+https://tv.ensonhaber.com/tv24/tv24.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",24 TV
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",24 TV
+https://www.youtube-nocookie.com/embed/ZIPYDataQZI
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",A Haber
+https://www.youtube-nocookie.com/embed/nmY9i63t6qo
+#EXTINF:-1 tvg-language="eng" group-title="TR" geo-blocked="no",A News
+https://www.youtube-nocookie.com/embed/L4O-IO_dySQ
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",A Para
+https://www.youtube-nocookie.com/embed/nIi1FAIGLuc
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",A Spor
+https://www.youtube-nocookie.com/embed/7uBpwcn2ZZ0
+#EXTINF:-1 tvg-language="eng" group-title="TR" geo-blocked="no",Afroturk TV
+https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Akit TV
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Aksu TV
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="TR" geo-blocked="no",Almahriah TV
+https://starmenajo.com/hls/almahriah/index.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Altas TV
+https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Anadolu Net TV
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Ankara Büyükşehir Belediyesi
+https://www.youtube-nocookie.com/embed/4F36EABQZ7A
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Aşk-ı Nevâ
+https://www.youtube-nocookie.com/embed/Z-SoBJzlCZc
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",ATV
+https://www.youtube-nocookie.com/embed/TX8HJ_h95qM
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",ATV Avrupa
+https://streamer2.nexgen.bz/ATV/index.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",beIN SPORTS Türkiye
+https://www.youtube-nocookie.com/embed/VCl1wO81VdM
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",BENGÜTÜRK TV
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",BENGÜTÜRK TV
+https://www.youtube-nocookie.com/embed/pE6RnH-0rz0
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Bloomberg HT
+https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Bloomberg HT
+https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",BRTV
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Bursa AS TV
+https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Bursa AS TV
+https://waw2.artiyerelmedya.net/astv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",CAH Medya
+https://www.youtube-nocookie.com/embed/61n0S0h6854
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Can TV
+https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Cartoon Network Türkiye
+https://www.youtube-nocookie.com/embed/ANLW4Ce_OQI
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Cartoon Network Türkiye: Kral Şakir
+https://www.youtube-nocookie.com/embed/5Whk9MVTpI4
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Cartoonito Türkiye
+https://www.youtube-nocookie.com/embed/yT41XAZBdls
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Cekmeköy TV
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",CGTN Documentary
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Çiftçi TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Cine 1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Cine5
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",CNN TÜRK
+https://www.youtube-nocookie.com/embed/VXMR3YQ7W3s
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Çocuklar Duymasın
+https://www.youtube-nocookie.com/embed/EVZmJPw-7hY
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Deha TV
+https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Deniz Postası TV
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",DHA
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",DİM TV
+https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Diyanet TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Diyanet TV
+https://www.youtube-nocookie.com/embed/Y_fVlTEd9iQ
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Diyar TV
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Dost TV
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",EKOTÜRK TV
+https://www.youtube-nocookie.com/embed/7cItyPb6-p0
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Elapro Sahne: Radyo Türküler
+https://www.youtube-nocookie.com/embed/jSBXmELy-Mo
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Emret Komutanım
+https://www.youtube-nocookie.com/embed/toD9B3krEgo
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Er TV
+https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Erzurum Web TV
+https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",ES TV
+https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",ETV Kayseri
+https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",ETV Manisa
+https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Fatmagül'ün Suçu Ne?
+https://www.youtube-nocookie.com/embed/qikDqZfTHOA
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Film Atölyesi: Şener Şen Filmleri
+https://www.youtube-nocookie.com/embed/FGL1GwoRRIw
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Fortuna TV
+https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Gonca TV
+https://edge1.socialsmart.tv/goncatv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",GRT
+https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Güldür Güldür Show
+https://www.youtube-nocookie.com/embed/twOviIHfDQk
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Gülşah Film: Kemal Sunal Filmleri
+https://www.youtube-nocookie.com/embed/hfx8H7YrmTw
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Guneydogu TV
+https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",GZT
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Haber Global
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Haber Global
+https://www.youtube-nocookie.com/embed/6BX-NUzBSp8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Haber61 TV
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Haber61 TV
+https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Habertürk TV
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Habertürk TV
+https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Halk TV
+https://www.youtube-nocookie.com/embed/ZSWPj9szKb8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Her An Kur'an Her An Zikir
+https://www.youtube-nocookie.com/embed/358jGRoGgy0
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",HT Spor
+https://www.youtube-nocookie.com/embed/RdpqsTbi_KU
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Hunat TV
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Icel TV
+https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",İnci Taneleri
+https://www.youtube-nocookie.com/embed/7ansDZhrY6Q
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Kanal 3
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Kanal 3
+https://waw2.artiyerelmedya.net/kanal3/bant1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Kanal 3
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3guncel/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Kanal 7 Avrupa
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Kanal 12
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Kanal 15
+https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Kanal 23
+https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Kanal 26
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Kanal 32
+https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Kanal 33
+https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Kanal D
+https://www.youtube-nocookie.com/embed/6wHAK439FDI
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Kanal Firat
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Kanal Hayat
+https://tbn02a.ltnschedule.com/hls/nx21i.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Kanal S
+https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Kanal Urfa
+https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Kanal V
+https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Kanal Z
+https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Kardelen TV
+https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Kay TV
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Kay TV
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Kemal Sunal: Filmleri ve Sahneleri
+https://www.youtube-nocookie.com/embed/FtNYTaoc2TY
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Kent Türk TV
+https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Konya Olay TV
+https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",KRAL Pop TV
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",KRT TV
+https://www.youtube-nocookie.com/embed/v5srSbD2WBk
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Kurtlar Vadisi
+https://www.youtube-nocookie.com/embed/BhUr9G4e2s4
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Kuzey Güney
+https://www.youtube-nocookie.com/embed/ay_whLpQXgc
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Lalegul TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Lider Haber
+https://www.youtube-nocookie.com/embed/GxMV2hzKK2I
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Life TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Line TV
+https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",MaviKaradeniz
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="TR" geo-blocked="no",Mekameleen TV
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Meltem TV
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Mercan TV
+https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",MTürk TV
+https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Muhteşem Yüzyıl
+https://www.youtube-nocookie.com/embed/4HZW53S0bv8
+#EXTINF:-1 tvg-language="eng" group-title="TR" geo-blocked="no",Natural TV
+https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Nora TV
+https://live.artidijitalmedya.com/artidijital_noratv/noratv/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Number 1 Ask
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Number 1 Damar
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Number 1 Dance
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Number 1 TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Olay Türk TV Kayseri
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",On 6
+https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",On4 TV
+https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Öncü TV
+https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Power Dance
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Power Love
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Power Turk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Power Turk
+https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Power Türk Akustik
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Power Türk Slow
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Power Türk Taptaze
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Power TV
+https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",S Sport
+https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",S Sport 2
+https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Semerkand TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Show TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Sihirli Annem
+https://www.youtube-nocookie.com/embed/KCejwr4z7NQ
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",SÖZCÜ Televizyonu
+https://www.youtube-nocookie.com/embed/ztmY_cCtUl0
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Star TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Star TV
+https://www.youtube-nocookie.com/embed/82O6yOy_XwE
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Sun RTV
+https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="TR" geo-blocked="no",Syria TV
+https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="TR" geo-blocked="no",Syria TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6017
+#EXTINF:-1 tvg-language="ara" group-title="TR" geo-blocked="no",Syria TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="TR" geo-blocked="no",Syria TV
+https://www.youtube-nocookie.com/embed/OLWU0rKOQ6o
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Tarim TV
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TAY TV
+https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TAY TV
+https://www.youtube-nocookie.com/embed/ZTtn95gTLlQ
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Tele 1
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Tele 1
+https://www.youtube-nocookie.com/embed/fNqmmqNNGp8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Teve2
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TGRT Belgesel TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TGRT Haber
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TGRT Haber
+https://www.youtube-nocookie.com/embed/TsB0xYOH0AU
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TJK TV
+https://www.youtube-nocookie.com/embed/g89RQMJtK6E
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Trakya Türk TV
+https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="TR" geo-blocked="no",TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TRT Diyanet Çocuk
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-language="" group-title="TR" geo-blocked="no",TRT EBA Ortaokul
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TRT Haber
+https://www.youtube-nocookie.com/embed/O_v0NVppBjY
+#EXTINF:-1 tvg-language="kur" group-title="TR" geo-blocked="no",TRT Kurdî
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="TR" geo-blocked="no",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="TR" geo-blocked="no",TRT World
+https://www.youtube-nocookie.com/embed/NWyXUXzN7So
+#EXTINF:-1 tvg-language="ara" group-title="TR" geo-blocked="no",TRT عربي
+https://www.youtube-nocookie.com/embed/mQU9sE67cCk
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TürkHaber
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TV 1
+https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TV 8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TV 41
+https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TV 52
+https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TV 100
+https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TV 264
+https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TV A
+https://live.artidijitalmedya.com/artidijital_tva/tva/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TV4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TV100
+https://www.youtube-nocookie.com/embed/6g_DvD8e2T0
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TVnet
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",TYT Turk
+https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Ulusal Kanal
+https://www.youtube-nocookie.com/embed/dK96AZbCns0
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Urfa Natik TV
+https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",ÜÜ TV Üsküdar Üniversitesi TV
+https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Vav TV
+https://www.youtube-nocookie.com/embed/aI65zlH3UT8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Vuslat TV
+https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Woman TV
+https://embedlp.becdn.net/womantv.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Yalan Dünya
+https://www.youtube-nocookie.com/embed/swCdxaGHkM8
+#EXTINF:-1 tvg-language="tur" group-title="TR" geo-blocked="no",Yaprak Dökümü
+https://www.youtube-nocookie.com/embed/crwxJBQKWj4
+#EXTINF:-1 tvg-language="kur" group-title="TR" geo-blocked="no",Zarok TV
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8

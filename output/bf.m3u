@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="fra" group-title="BF" geo-blocked="no",RTB
+https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8

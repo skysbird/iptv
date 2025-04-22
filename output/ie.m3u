@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="gle" group-title="IE" geo-blocked="no",Cúla4
+https://d3eq0jseza7fm5.cloudfront.net/tg4_vod_3.m3u8
+#EXTINF:-1 tvg-language="gle" group-title="IE" geo-blocked="no",Oireachtas TV
+https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="IE" geo-blocked="no",Oireachtas TV Committee Room 1
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="IE" geo-blocked="no",Oireachtas TV Committee Room 2
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr2/hls.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="IE" geo-blocked="no",Oireachtas TV Committee Room 3
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="IE" geo-blocked="no",Oireachtas TV Committee Room 4
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr4/hls.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="IE" geo-blocked="no",Oireachtas TV Dáil Éireann
+https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="IE" geo-blocked="no",Oireachtas TV Seanad Éireann
+https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8
+#EXTINF:-1 tvg-language="gle" group-title="IE" geo-blocked="no",TG4
+https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8

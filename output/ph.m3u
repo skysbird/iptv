@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="fil" group-title="PH" geo-blocked="no",A2Z
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5.m3u8
+#EXTINF:-1 tvg-language="tgl" group-title="PH" geo-blocked="no",CLTV 36
+https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
+#EXTINF:-1 tvg-language="tgl" group-title="PH" geo-blocked="no",DZRH News TV
+https://www.youtube-nocookie.com/embed/xui4jCWCIE0
+#EXTINF:-1 tvg-language="tgl" group-title="PH" geo-blocked="no",INC TV
+https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
+#EXTINF:-1 tvg-language="tgl" group-title="PH" geo-blocked="no",Teleradyo Serbisyo
+https://www.youtube-nocookie.com/embed/ooK1cGX4Gks
+#EXTINF:-1 tvg-language="tgl" group-title="PH" geo-blocked="no",UNTV News and Rescue
+https://www.youtube-nocookie.com/embed/Y0mGX-aG4gs

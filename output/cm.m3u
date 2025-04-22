@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="fra" group-title="CM" geo-blocked="no",CEN Télévision
+https://strhlslb01.streamakaci.tv/cen/cen-multi/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="CM" geo-blocked="no",TR24
+https://stream.it-innov.com/tr24/index.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="CM" geo-blocked="no",Vision 4
+https://cdn-globecast.akamaized.net/live/eds/vision4/hls_video/index.m3u8

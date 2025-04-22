@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="eng" group-title="KN" geo-blocked="no",ZIZ TV
+https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8

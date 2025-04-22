@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="som" group-title="SO" geo-blocked="no",Arlaadi TV
+https://ap02.iqplay.tv:8082/iqb8002/alr114iapp/playlist.m3u8
+#EXTINF:-1 tvg-language="som" group-title="SO" geo-blocked="no",SNTV Daljir
+https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8
+#EXTINF:-1 tvg-language="som" group-title="SO" geo-blocked="no",Somali National TV
+https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8

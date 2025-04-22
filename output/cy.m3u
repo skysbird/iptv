@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="tur" group-title="CY" geo-blocked="no",ADA TV
+https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="CY" geo-blocked="no",BRT 1
+https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="CY" geo-blocked="no",BRT 2
+https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="CY" geo-blocked="no",GÜNEŞ TV
+https://sc-kuzeykibrissmarttv.ercdn.net/gunestv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="CY" geo-blocked="no",Kanal Sim
+https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="CY" geo-blocked="no",Kibris Genç TV
+https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="CY" geo-blocked="no",Kibris Kanal T
+https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="CY" geo-blocked="no",Kibris TV
+https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="CY" geo-blocked="no",RΙΚ Sat (CYBC S)
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="CY" geo-blocked="no",Sat 7 Arabic
+https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="CY" geo-blocked="no",Sat 7 Kids
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="CY" geo-blocked="no",Sat7 Pars
+https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="CY" geo-blocked="no",Sat7 Pars
+https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="CY" geo-blocked="no",Sat7 Türk
+https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="CY" geo-blocked="no",Sat7 Türk
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="CY" geo-blocked="no",Sat7 Türk
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-language="ell" group-title="CY" geo-blocked="no",Sigma TV
+https://sl2.sigmatv.com/hls/live.m3u8
+#EXTINF:-1 tvg-language="tur" group-title="CY" geo-blocked="no",TV 2020
+https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8

@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="hun" group-title="HU" geo-blocked="no",16tv Budapest
+https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="hun" group-title="HU" geo-blocked="no",Balaton TV
+https://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF:-1 tvg-language="hun" group-title="HU" geo-blocked="no",Berente TV
+https://stream.streaming4u.hu/BerenteTV/index.m3u8
+#EXTINF:-1 tvg-language="hun" group-title="HU" geo-blocked="no",Budapest Európa Televízió
+https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="hun" group-title="HU" geo-blocked="no",Hatoscsatorna
+https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8
+#EXTINF:-1 tvg-language="hun" group-title="HU" geo-blocked="no",Hévízi TV
+https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="hun" group-title="HU" geo-blocked="no",Jászsági Térségi TV
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="hun" group-title="HU" geo-blocked="no",Kanizsa TV
+https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="hun" group-title="HU" geo-blocked="no",Karcag TV
+https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="hun" group-title="HU" geo-blocked="no",Kecskemeti TV
+https://eurobioinvest.hu:444/live/ktv.m3u8
+#EXTINF:-1 tvg-language="hun" group-title="HU" geo-blocked="no",Komáromi Televízió
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="hun" group-title="HU" geo-blocked="no",M1 - Híradó
+https://www.youtube-nocookie.com/embed/_Z03zwFd8yI
+#EXTINF:-1 tvg-language="hun" group-title="HU" geo-blocked="no",Móra-Net TV
+https://stream.moranettv.hu/live/index.m3u8
+#EXTINF:-1 tvg-language="hun" group-title="HU" geo-blocked="no",Óbuda TV
+https://stream.streaming4u.hu/ObudaTV/index.m3u8
+#EXTINF:-1 tvg-language="hun" group-title="HU" geo-blocked="no",Oroszlányi Városi Televízió
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="HU" geo-blocked="no",Oxygen Music
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+#EXTINF:-1 tvg-language="hun" group-title="HU" geo-blocked="no",PilisTV
+https://stream.streaming4u.hu/PilisTV/index.m3u8
+#EXTINF:-1 tvg-language="hun" group-title="HU" geo-blocked="no",SIXO TV
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="hun" group-title="HU" geo-blocked="no",Szolnok TV
+https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="hun" group-title="HU" geo-blocked="no",Tatai TV
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="hun" group-title="HU" geo-blocked="no",Trimedio TV
+https://stream.streaming4u.hu/TriMedioTV/index.m3u8
+#EXTINF:-1 tvg-language="hun" group-title="HU" geo-blocked="no",TV Keszthely
+https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="hun" group-title="HU" geo-blocked="no",TV7 Bekescsaba
+https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
+#EXTINF:-1 tvg-language="hun" group-title="HU" geo-blocked="no",VTV Füzesabony
+https://stream.nmih.hu:7962/live.m3u8
+#EXTINF:-1 tvg-language="hun" group-title="HU" geo-blocked="no",XV TV
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="hun" group-title="HU" geo-blocked="no",Zalaegerszegi TV
+https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8

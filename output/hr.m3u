@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="hrv" group-title="HR" geo-blocked="no",CMC TV
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 tvg-language="hrv" group-title="HR" geo-blocked="no",Klape i Tambure TV
+https://stream.cmctv.hr:49998/kit/live.m3u8
+#EXTINF:-1 tvg-language="hrv" group-title="HR" geo-blocked="no",Libertas TV
+https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:-1 tvg-language="hrv" group-title="HR" geo-blocked="no",Radio Televizija Banovina
+https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-language="hrv" group-title="HR" geo-blocked="no",TV Jadran
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:-1 tvg-language="hrv" group-title="HR" geo-blocked="no",TV Nova
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8

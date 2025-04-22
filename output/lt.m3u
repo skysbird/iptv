@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="lit" group-title="LT" geo-blocked="no",LRT Klasika
+https://www.youtube-nocookie.com/embed/k7Ik8Ls-ZFk
+#EXTINF:-1 tvg-language="lit" group-title="LT" geo-blocked="no",LRT Lituanica
+https://stream-live.lrt.lt/lituanica/stream03/streamPlaylist.m3u8
+#EXTINF:-1 tvg-language="lit" group-title="LT" geo-blocked="no",LRT Lituanica
+https://www.youtube-nocookie.com/embed/m67gYVnA100
+#EXTINF:-1 tvg-language="lit" group-title="LT" geo-blocked="no",LRT Opus
+https://www.youtube-nocookie.com/embed/EbHYDvg1siE
+#EXTINF:-1 tvg-language="lit" group-title="LT" geo-blocked="no",LRT Radijas
+https://www.youtube-nocookie.com/embed/izc0E-37OmY
+#EXTINF:-1 tvg-language="lit" group-title="LT" geo-blocked="no",M-1
+https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8

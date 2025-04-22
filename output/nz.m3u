@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="" group-title="NZ" geo-blocked="no",Bravo +1
+https://i.mjh.nz/.r/bravo-plus1.m3u8
+#EXTINF:-1 tvg-language="" group-title="NZ" geo-blocked="no",Drybar Comedy
+https://drybar-drybarcomedy-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="NZ" geo-blocked="no",Firstlight
+https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="NZ" geo-blocked="no",Juice TV
+https://juicex.nz/hls/mystream.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="NZ" geo-blocked="no",Kordia TV
+https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+#EXTINF:-1 tvg-language="" group-title="NZ" geo-blocked="no",Love Stories TV
+https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="NZ" geo-blocked="no",Parliament TV
+https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="NZ" geo-blocked="no",Rush NZ
+https://www.youtube-nocookie.com/embed/N0S4BTHhVRE
+#EXTINF:-1 tvg-language="eng" group-title="NZ" geo-blocked="no",Wairarapa TV
+https://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8

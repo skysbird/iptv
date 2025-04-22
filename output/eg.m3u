@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="ara" group-title="EG" geo-blocked="no",Aghapy TV
+https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="EG" geo-blocked="no",Al Ghad Plus
+https://playlist.fasttvcdn.com/pl/ykvm3f2fhokwxqsurp9xcg/alghad-plus/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="EG" geo-blocked="no",Al Qahera News
+https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="EG" geo-blocked="no",Alfath Atfal TV
+https://alfat7-q.com:5443/LiveApp/streams/434833549141598440488987.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="EG" geo-blocked="no",Alfath Sonnah TV
+https://alfat7-q.com:5443/LiveApp/streams/986613792230697141226562.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="EG" geo-blocked="no",Alfath TV
+https://alfat7-q.com:5443/LiveApp/streams/515112551489055772942045.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="EG" geo-blocked="no",Alghad TV: قناة الغد
+https://www.youtube-nocookie.com/embed/BpcESs5YRDo
+#EXTINF:-1 tvg-language="ara" group-title="EG" geo-blocked="no",Alhayat TV
+https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="EG" geo-blocked="no",AlKahera WalNas 2
+https://www.youtube-nocookie.com/embed/_IHIE7E2HjM
+#EXTINF:-1 tvg-language="ara" group-title="EG" geo-blocked="no",AlShoub
+https://alshoobtv.rp.tactivemedia.com/alshoobtv/live/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="EG" geo-blocked="no",Coptic TV
+https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="EG" geo-blocked="no",Coptic TV
+https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="EG" geo-blocked="no",El Radio 9090 FM
+https://9090video.mobtada.com/hls/stream.m3u8
+#EXTINF:-1 tvg-language="" group-title="EG" geo-blocked="no",Elsharq TV
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="EG" geo-blocked="no",eXtra news
+https://www.youtube-nocookie.com/embed/vTdCc0ZNwPU
+#EXTINF:-1 tvg-language="eng" group-title="EG" geo-blocked="no",Huda TV
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="EG" geo-blocked="no",Koogi TV
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="EG" geo-blocked="no",MBC Masr 1
+https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="EG" geo-blocked="no",MBC Masr 1
+https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="EG" geo-blocked="no",MBC Masr 2
+https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="EG" geo-blocked="no",NogoumFMTV
+https://nogoumtv.nrpstream.com/hls/stream.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="EG" geo-blocked="no",On E
+https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/6057955906001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="EG" geo-blocked="no",PNC Drama
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="EG" geo-blocked="no",TeN
+https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="EG" geo-blocked="no",The Kingdom Sat
+https://bcovlive-a.akamaihd.net/0e524e1838ed411dad0a674d18e07914/eu-central-1/6415808954001/playlist_dvr.m3u8

@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="" group-title="IR" geo-blocked="no",247 Box
+https://hls.247box.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="" group-title="IR" geo-blocked="no",AFN Music
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="IR" geo-blocked="no",AFN TV
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="IR" geo-blocked="no",Asil TV
+https://live.asil.tv/asiltv/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="IR" geo-blocked="no",Assirat TV
+https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="IR" geo-blocked="no",AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="IR" geo-blocked="no",AVA Series
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="IR" geo-blocked="no",Bravo Farsi TV
+https://bravoohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="IR" geo-blocked="no",FX1 Farsi
+https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="" group-title="IR" geo-blocked="no",Health Media TV
+https://6n3yowknl9ok-hls-live.5centscdn.com/HMN/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="IR" geo-blocked="no",ITN
+https://itnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="IR" geo-blocked="no",Meta Film TV
+https://metafilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="IR" geo-blocked="no",Mihan TV
+https://iptv.mihantv.com/mihantv/playlist.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="IR" geo-blocked="no",Mohabat TV
+https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="IR" geo-blocked="no",Negah TV
+https://iptv.negahtv.com/negahtv/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="IR" geo-blocked="no",Omide Iran
+https://oitnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="IR" geo-blocked="no",OXIR TV
+https://hls.oxir.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="" group-title="IR" geo-blocked="no",Pars
+https://parshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="" group-title="IR" geo-blocked="no",Payam Javan TV
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="IR" geo-blocked="no",Payvand TV
+https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="IR" geo-blocked="no",PBC Tapesh TV
+https://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="IR" geo-blocked="no",Press TV
+https://live.presstv.ir/hls/presstv.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="IR" geo-blocked="no",SL 1
+https://slonehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="IR" geo-blocked="no",SL 2
+https://sltwohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="" group-title="IR" geo-blocked="no",Tapesh Iran
+https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="IR" geo-blocked="no",TBN Nejat TV
+https://hls.nejat.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="IR" geo-blocked="no",Varzesh TV
+https://stream.sainaertebat.com/hls2/varzeshtest.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="IR" geo-blocked="no",YourTime TV
+https://hls.yourtime.live/hls/stream.m3u8

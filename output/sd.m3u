@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="ara" group-title="SD" geo-blocked="no",Dabanga TV
+https://hls.dabangasudan.org/hls/stream.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="SD" geo-blocked="no",Sudan TV
+https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8

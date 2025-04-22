@@ -1,0 +1,227 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Acústico Imaginar: Pé de Serra
+https://www.youtube-nocookie.com/embed/aqIOdPuSPw0
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-language="jpn" group-title="BR" geo-blocked="no",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Assembleia SC: AO VIVO
+https://www.youtube-nocookie.com/embed/v26NJweSL6I
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Boa Vontade TV
+https://www.youtube-nocookie.com/embed/jhaT-7bujcA
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Canal 25 Jundiaí
+https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Canal do Inter
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Canal Gov
+https://www.youtube-nocookie.com/embed/_5ZQsfg7fl0
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Canal Metropolitano de Noticias
+https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Chroma TV
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",CNN Brasil
+https://www.youtube-nocookie.com/embed/WWUUo5XMxxk
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",ConecTV Brasil
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Conexão TV
+https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",CWB TV
+https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",DiaTV
+https://www.youtube-nocookie.com/embed/Df3g76Y25gs
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Diva Depressão
+https://www.youtube-nocookie.com/embed/IX9FJJTZ-Po
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",ElyTV
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Fala Litoral
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Igreja Presbiteriana de Pinheiros
+https://www.youtube-nocookie.com/embed/fo_XwARi6TM
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",ISTV
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Master Show TV
+https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",MKK Web TV
+https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",MyTime Movie Network Brazil
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Nova TV Agrotour
+https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="BR" geo-blocked="no",Nuevo Tiempo
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",RBATV
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Record News
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Record News
+https://www.youtube-nocookie.com/embed/bs6_pgBwPZc
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Rede Mais
+https://5a0c3936c25c8.streamlock.net/8010/8010/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Rede NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Rede Novo Tempo de Comunicação
+https://www.youtube-nocookie.com/embed/Dx3SmOUiZlI
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Rede SPTV
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Rede Sul
+https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Rio TV Câmara
+https://www.youtube-nocookie.com/embed/yHFKaaCvCq8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",Santuário Nacional de Aparecida
+https://www.youtube-nocookie.com/embed/juUt-rN5CVo
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",SBT CENTRAL
+https://www.youtube-nocookie.com/embed/9wYBzDHxZJM
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",SBT RIBEIRÃO PRETO
+https://www.youtube-nocookie.com/embed/Eb5967X0OMw
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",SBT Rio
+https://www.youtube-nocookie.com/embed/jd8DaAEzGV0
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",SBT RS
+https://www.youtube-nocookie.com/embed/i_OMliV2H-k
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",SIC TV
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TCM 10 HD
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV A Folha
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV A7 Plus
+https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV ALERJ
+https://www.youtube-nocookie.com/embed/6KgZqvssxGk
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Aliança Catarinense
+https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Alternativa
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Aparecida
+https://www.youtube-nocookie.com/embed/ha-Ag0lQmN0
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Arapuan
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Assembleia Minas Gerais
+https://www.youtube-nocookie.com/embed/qdZjM__St_I
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Boqueirão
+https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Brasil Central
+https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Brasil Oeste
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Brusque
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Câmara 2
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Câmara Porto Alegre
+https://www.youtube-nocookie.com/embed/hyQRqQLtSZU
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Cancao Nova
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Canção Nova
+https://www.youtube-nocookie.com/embed/-1__eSfLYg4
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Cidade de Petrópolis
+https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Cidade Verde
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Clube
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV CN Agitos
+https://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV COM Santos
+https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Curuça
+https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Difusora Leste
+https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV do Povo
+https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Grao Pará
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Guará
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Japi
+https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Justiça
+https://www.youtube-nocookie.com/embed/WsdcIRSVuWY
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Maceió
+https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Mais Maricá
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Marajoara
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV MAX
+https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Metropole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Mon
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Nordestina
+https://www.youtube-nocookie.com/embed/8iUBh9h6MPc
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Osório News
+https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Padre Cicero
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Pantanal MS
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Passo Fundo
+https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Plan
+https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Rio Preto
+https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Sandegi
+https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV São Raimundo
+https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Series 1 As Panteras
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Sim Cachoeiro
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Sim Colatina
+https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Sul Bahia
+https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Sul de Minas
+https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Tambaú
+https://www.youtube-nocookie.com/embed/pbpNRjYh7CI
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Terceiro Anjo
+https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Thathi SBT
+https://www.youtube-nocookie.com/embed/ZGPILnYJ41I
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Tudo BH
+https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TV Vale do Uruará
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TVBE Joinville
+https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TVCOM Maceió
+https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TVídeoNews
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",TVitapé
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",UNISUL TV
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+#EXTINF:-1 tvg-language="por" group-title="BR" geo-blocked="no",VV8 TV
+https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8

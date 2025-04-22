@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",Aguacate TV
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",Alcance TV
+https://videolatam.com:3516/live/tjjqdqurlive.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",BTA TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",Canal 21 Táchira
+https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",Catatumbo TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
+#EXTINF:-1 tvg-language="" group-title="VE" geo-blocked="no",GlobalTV
+https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",interTV
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",Isla TV
+https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",Latina TV
+https://streamtv.intervenhosting.net:3639/live/latinatvlive.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",Monagas Visión
+https://cloud2.streaminglivehd.com:1936/monagasvision-2/monagasvision-2/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",Onza TV
+https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",Oxigeno TV
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",Panavisión
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",Plous TV
+https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",PortuTV
+https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",Reforma TV
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",Siembra TV
+https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",Somos TV
+https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",TAM TV
+https://tv.webtuya.com:3726/live/tammeridalive.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",Teleboconó
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",Telecolor
+https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",TeleSUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="VE" geo-blocked="no",Televen Asia
+https://d39cdj6x0ssnqk.cloudfront.net/out/v1/95fe709c8bde490f92bea36203ec91d2/index.m3u8
+#EXTINF:-1 tvg-language="" group-title="VE" geo-blocked="no",Televen Europa
+https://d39cdj6x0ssnqk.cloudfront.net/out/v1/ae3f5ad3ac9d4bcfbedc1894a62782b4/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",TNO Radio
+https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",Torococo TV
+https://us.streaminghd.cl/torococotelevision/video.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",TRT
+https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",TRV
+https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",TV FANB
+https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",TVS
+https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",Vale TV
+https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",Vale TV
+https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",Venevisión Internacional
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="VE" geo-blocked="no",Vepaco TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8

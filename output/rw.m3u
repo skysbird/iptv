@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="kin" group-title="RW" geo-blocked="no",BTN TV
+https://tv.btnrwanda.com:3086/live/btnlive.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="RW" geo-blocked="no",RTV Rwanda
+https://5c46fa289c89f.streamlock.net/rtv/rtv/playlist.m3u8
+#EXTINF:-1 tvg-language="kin" group-title="RW" geo-blocked="no",TV10
+https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8

@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",ABCテレビニュース
+https://www.youtube-nocookie.com/embed/sTAqx_1Yrww
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",Anileap: アニリープ公式
+https://www.youtube-nocookie.com/embed/4FBW3mkdKOs
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",Anime Vanguard Live
+https://www.youtube-nocookie.com/embed/lvL7NBq9akc
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",ANN News
+https://www.youtube-nocookie.com/embed/Mq3SLR8-500
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",Asahi: Documentary
+https://www.youtube-nocookie.com/embed/KXO4PkA_R2Q
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",CGNTV Japan
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",Earthquake Alert Channel
+https://www.youtube-nocookie.com/embed/c7_kqMFDE8c
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",HBC Hokkaido News 24
+https://www.youtube-nocookie.com/embed/hHpKSrSV-3w
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",Hiroshima News 24
+https://www.youtube-nocookie.com/embed/e2pgLUmaxGs
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",Hokkaido News UHB
+https://www.youtube-nocookie.com/embed/j13h_eBEnCs
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",HTB Hokkaido News 24
+https://www.youtube-nocookie.com/embed/7-Vky63lvek
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",JapaNews24
+https://www.youtube-nocookie.com/embed/coYw-eVU0Ks
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",KBC News
+https://www.youtube-nocookie.com/embed/4hpUbFP13-M
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",KTS News 鹿児島
+https://www.youtube-nocookie.com/embed/zmPSSDDuKKk
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",Nagoya TV News
+https://www.youtube-nocookie.com/embed/-C6FE2m7kX8
+#EXTINF:-1 tvg-language="eng" group-title="JP" geo-blocked="no",NHK World Premium
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",NHK World-Japan
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",NTV News
+https://www.youtube-nocookie.com/embed/t9kwjZBLI-A
+#EXTINF:-1 tvg-language="eng" group-title="JP" geo-blocked="no",Pokémon Kids TV English
+https://www.youtube-nocookie.com/embed/p3rUnBdYWpo
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",Pokémon Kids TV Japanese
+https://www.youtube-nocookie.com/embed/wJo3U6JQaSU
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",RCC News 24
+https://www.youtube-nocookie.com/embed/eDAum1hGf1s
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",RKB News 24
+https://www.youtube-nocookie.com/embed/JiDH5bZOews
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",SBS News
+https://www.youtube-nocookie.com/embed/WTqMWIdusqg
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",Shop Channel
+https://www.youtube-nocookie.com/embed/Oa3DX_MzpPE
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",STV News Hokkaido
+https://www.youtube-nocookie.com/embed/hA46WfBYdgo
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",Su_Root: Earthquake Monitoring
+https://www.youtube-nocookie.com/embed/w5ecwLord2A
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",SUNTV News
+https://www.youtube-nocookie.com/embed/SM5ukgrbamY
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",TBS NEWS DIG
+https://www.youtube-nocookie.com/embed/ohI356mwBp8
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",TeNY Niigata News
+https://www.youtube-nocookie.com/embed/FZtX-Oob1XU
+#EXTINF:-1 tvg-language="jpn" group-title="JP" geo-blocked="no",TOS News
+https://www.youtube-nocookie.com/embed/YAIQDjVnvsE

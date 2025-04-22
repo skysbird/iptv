@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="slk" group-title="SK" geo-blocked="no",BTV
+https://fs3.kabelko.sk/9011/index.m3u8?token=btv
+#EXTINF:-1 tvg-language="slk" group-title="SK" geo-blocked="no",Česko-Slovenská regionálna televízia
+https://www.youtube-nocookie.com/embed/axu9f78ITFg
+#EXTINF:-1 tvg-language="eng" group-title="SK" geo-blocked="no",ducktv
+https://jmp2.uk/sam-ESBC4700001GR.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="SK" geo-blocked="no",ducktv
+https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="SK" geo-blocked="no",ducktv
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168
+#EXTINF:-1 tvg-language="eng" group-title="SK" geo-blocked="no",ducktv
+https://weyyak-live.akamaized.net/weyyak_ducktv/index.m3u8
+#EXTINF:-1 tvg-language="slk" group-title="SK" geo-blocked="no",LifeTv
+https://lifetv.mpks.sk/s.m3u8
+#EXTINF:-1 tvg-language="slk" group-title="SK" geo-blocked="no",Markiza Klasik
+https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
+#EXTINF:-1 tvg-language="slk" group-title="SK" geo-blocked="no",Markiza Krimi
+https://cdnsk003.panaccess.com/local/Markiza_krimi/index.m3u8
+#EXTINF:-1 tvg-language="slk" group-title="SK" geo-blocked="no",MTR
+https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
+#EXTINF:-1 tvg-language="slk" group-title="SK" geo-blocked="no",TV DK
+https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8
+#EXTINF:-1 tvg-language="slk" group-title="SK" geo-blocked="no",TV Nitra
+https://www.youtube-nocookie.com/embed/zwlqOEHdsK8
+#EXTINF:-1 tvg-language="slk" group-title="SK" geo-blocked="no",TV NRSR
+https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8

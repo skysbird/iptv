@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="eng" group-title="BN" geo-blocked="no",RTB Aneka
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+#EXTINF:-1 tvg-language="msa" group-title="BN" geo-blocked="no",RTB Go
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+#EXTINF:-1 tvg-language="msa" group-title="BN" geo-blocked="no",RTB Sukmaindera
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8

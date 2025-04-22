@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Andes Televisión
+https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Antares Televisión
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",AsiriTV
+https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",ATV
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",ATV Sur
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",ATV+
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Auténtica Televisión
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Canal 8 Catacaos
+https://live.obslivestream.com/canal8/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Canal IPe
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Congreso del Perú en Vivo
+https://www.youtube-nocookie.com/embed/zWJc9qsCGxc
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Controversia TV
+https://live.obslivestream.com/controversiatv/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",CR Televisión Moyobamba
+https://live.obslivestream.com/crtvmux/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Cumo TV
+https://live.obslivestream.com/cumo/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",DMJ Cuzco
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Hechicera TV
+https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Impacto Televisión
+https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Intuitiva TV
+https://video2.lhdserver.es/cableperu/live.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",JN19
+https://servilive.com:3028/live/jntv19live.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Latina
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Latina Clasicos
+https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Mega TV Jaen
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Miel TV
+https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Milenial TV
+https://www.milenial.news/salida/milenial.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Millenium 109 FM
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Nativa
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Nativa TV Satipo
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",NorSelva RTV
+https://live.obslivestream.com/norselvatv/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Nova TV Star
+https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Oasis RTV
+https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",ONDA DIGITAL
+https://tv.ondadigital.pe/ondadigital/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Ovación TV
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Planeta TV
+https://live.obslivestream.com/planetatv/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Radio Onda Digital
+https://v4.tustreaming.cl/radioondadigitaltv/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Radio Tropical Tarapoto
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Red de Comunicación Regional (RCR)
+https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Región TV Callao
+https://servilive.com:3757/live/regiontvlive.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",RN Televisión
+https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",RSelvaTV
+https://live.obslivestream.com/selvatv/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Señal Perú TV
+https://livestream.perucast.com/hls/stream.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Sol Televisión
+https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Super Canal Yurimaguas
+https://live.obslivestream.com/supercanal/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Telecolor Yurimaguas
+https://live.obslivestream.com/telecolormux/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Teleselva
+https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Top FM TV
+https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Trivu
+https://www.chasquirouter.com/salida/sd/trivu.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",TV Cosmos
+https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+#EXTINF:-1 tvg-language="aym" group-title="PE" geo-blocked="no",TV Perú
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",TV Perú Internacional
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",TV Perú Noticias
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",TV Sistemas Cuzco
+https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",TVUNO
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Uranio TV (Yurimaguas)
+https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",USIL TV
+https://per01-lim01.servidor.stream/usiltv/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Vía Altomayo
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Vía Televisión (720P)
+https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Visión Noticias Perú (VNP)
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",Viva TV Yurimaguas
+https://live.obslivestream.com/vivatv/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="PE" geo-blocked="no",VZ TV
+https://live.obslivestream.com/vztv/index.m3u8

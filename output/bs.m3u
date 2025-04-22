@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="eng" group-title="BS" geo-blocked="no",Guardian Talk Radio
+https://cdn-edge1.streamcomedia.com/abr_tngr969fm/abr-tngr969fm_streams/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="BS" geo-blocked="no",The Parliamentary Channel
+https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8

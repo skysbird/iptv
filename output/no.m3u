@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="eng" group-title="NO" geo-blocked="no",Canal Motor
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="NO" geo-blocked="no",Canal Motor
+https://digicom.hls.iptvdc.com/motorstv/index.m3u8
+#EXTINF:-1 tvg-language="nor" group-title="NO" geo-blocked="no",Frikanalen
+https://frikanalen.no/stream/index.m3u8
+#EXTINF:-1 tvg-language="nor" group-title="NO" geo-blocked="no",TV Østfold
+https://streamnorge.com:8088/hls/tvo.m3u8

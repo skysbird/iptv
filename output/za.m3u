@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="eng" group-title="ZA" geo-blocked="no",1KZN TV
+https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="ZA" geo-blocked="no",947 Joburg
+https://www.youtube-nocookie.com/embed/T68d5MUspE8
+#EXTINF:-1 tvg-language="eng" group-title="ZA" geo-blocked="no",Afrokiddos
+https://weyyak-live.akamaized.net/weyyak_afrokiddos/index.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="ZA" geo-blocked="no",AnewZ
+https://www.youtube-nocookie.com/embed/Q0Apjvexi2I
+#EXTINF:-1 tvg-language="eng" group-title="ZA" geo-blocked="no",BOKTV
+https://livestream2.bokradio.co.za/hls/Bok5c.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="ZA" geo-blocked="no",Cape Town TV
+https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="ZA" geo-blocked="no",CNBC Africa
+https://www.youtube-nocookie.com/embed/Q6KBrriA3AM
+#EXTINF:-1 tvg-language="eng" group-title="ZA" geo-blocked="no",Faith TV
+https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="ZA" geo-blocked="no",Family Feud Africa
+https://www.youtube-nocookie.com/embed/6_L5HUfsIAI
+#EXTINF:-1 tvg-language="eng" group-title="ZA" geo-blocked="no",Fresh
+https://origin3.afxp.telemedia.co.za/PremiumFree/freshtv/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="ZA" geo-blocked="no",Kfm 94.5
+https://www.youtube-nocookie.com/embed/FadE-6NZojw
+#EXTINF:-1 tvg-language="eng" group-title="ZA" geo-blocked="no",Kiddiwinks
+https://origin3.afxp.telemedia.co.za/PremiumFree/kiddiwinks/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="ZA" geo-blocked="no",Limelight
+https://origin3.afxp.telemedia.co.za/PremiumFree/limelight/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="ZA" geo-blocked="no",LN24SA
+https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="ZA" geo-blocked="no",LoveworldSAT
+https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/chunklist.m3u8
+#EXTINF:-1 tvg-language="" group-title="ZA" geo-blocked="no",LoveworldSAT
+https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="ZA" geo-blocked="no",Redemption TV Ministry
+https://live.nixsat.com/play/rtm/index.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="ZA" geo-blocked="no",RPM
+https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="ZA" geo-blocked="no",SABC Lehae
+https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="ZA" geo-blocked="no",SABC News
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="ZA" geo-blocked="no",Soweto TV
+https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="ZA" geo-blocked="no",Sports Connect
+https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="ZA" geo-blocked="no",Trigger
+https://origin2.afxp.telemedia.co.za/abr/trigger/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="ZA" geo-blocked="no",True African
+https://origin3.afxp.telemedia.co.za/PremiumFree/trueafrican/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="ZA" geo-blocked="no",Tshwane TV
+https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="ZA" geo-blocked="no",TV BRICS Africa
+https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8

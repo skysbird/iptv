@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="nld" group-title="CW" geo-blocked="no",Bonce TV
+https://seswa.bonce.tv/hls/bonceswa.m3u8
+#EXTINF:-1 tvg-language="" group-title="CW" geo-blocked="no",Curaçao Meterological Department
+https://media.streambrothers.com:19360/8272/8272.m3u8
+#EXTINF:-1 tvg-language="nld" group-title="CW" geo-blocked="no",TV Direct 13
+https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="nld" group-title="CW" geo-blocked="no",VAM Vid's & More
+https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8

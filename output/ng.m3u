@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="eng" group-title="NG" geo-blocked="no",APTIM TV
+https://stream.commec.tv/6447b2559d8b0711e2fa75cc/live_222c2dc0b69f11ee8c3c99218c8c67c4/index.fmp4.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="NG" geo-blocked="no",Arise News
+https://www.youtube-nocookie.com/embed/vtwfekyAluo
+#EXTINF:-1 tvg-language="eng" group-title="NG" geo-blocked="no",Channels Television
+https://www.youtube-nocookie.com/embed/W8nThq62Vb4
+#EXTINF:-1 tvg-language="eng" group-title="NG" geo-blocked="no",Galaxy TV
+https://5d846bfda90fc.streamlock.net:1935/live/galaxytv/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="NG" geo-blocked="no",HoremowTV
+https://tvsw6-hls.secdn.net/tvsw6-chorigin/play/prod-2859eecc9b514f2bb955290066ef172d/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="NG" geo-blocked="no",Kingsview TV
+https://j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f2e77e26940c00e6.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="NG" geo-blocked="no",LoveWorld Arabic
+https://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="NG" geo-blocked="no",LoveWorld Persia
+https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="NG" geo-blocked="no",News Central TV
+https://www.youtube-nocookie.com/embed/VvnyHCejwjo
+#EXTINF:-1 tvg-language="eng" group-title="NG" geo-blocked="no",Qausain TV
+https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="NG" geo-blocked="no",Superscreen TV
+https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="NG" geo-blocked="no",TrustTV News
+https://www.youtube-nocookie.com/embed/45wmaR27NOE
+#EXTINF:-1 tvg-language="eng" group-title="NG" geo-blocked="no",TVC News
+https://www.youtube-nocookie.com/embed/4-2RGDSFNpA
+#EXTINF:-1 tvg-language="eng" group-title="NG" geo-blocked="no",TVC News Nigeria
+https://www.youtube-nocookie.com/embed/N0gITrmcCMQ
+#EXTINF:-1 tvg-language="eng" group-title="NG" geo-blocked="no",Waffi TV
+https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="NG" geo-blocked="no",Wap TV
+https://newproxy3.vidivu.tv/waptv/index.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="NG" geo-blocked="no",Whole Word TV
+https://mn-nl.mncdn.com/wholewordtv/wholewordtv/index.m3u8

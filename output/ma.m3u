@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="" group-title="MA" geo-blocked="no",Al Aoula International
+https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="MA" geo-blocked="no",Al Aoula Laâyoune
+https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/playlist_dvr.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="MA" geo-blocked="no",Al Maghribia
+https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/playlist_dvr.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="MA" geo-blocked="no",Arryadia
+https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/playlist_dvr.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="MA" geo-blocked="no",Assadissa
+https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/playlist_dvr.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="MA" geo-blocked="no",Athaqafia
+https://cdn.live.easybroadcast.io/abr_corp/73_arrabia_hthcj4p/playlist_dvr.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="MA" geo-blocked="no",Chada TV
+https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="MA" geo-blocked="no",Chada TV
+https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="MA" geo-blocked="no",Medi 1 TV Afrique
+https://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="MA" geo-blocked="no",Medi 1 TV Arabic
+https://streaming2.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="MA" geo-blocked="no",Medi 1 TV Maghreb
+https://streaming2.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="MA" geo-blocked="no",Tamazight
+https://cdn.live.easybroadcast.io/abr_corp/73_tamazight_tccybxt/playlist_dvr.m3u8

@@ -1,0 +1,279 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",A12 TV
+https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",Africa 24
+https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="FR" geo-blocked="no",Africa 24 English
+https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="FR" geo-blocked="no",AfricaNews English
+https://www.youtube-nocookie.com/embed/NQjabLGdP5g
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",AfricaNews Français
+https://www.youtube-nocookie.com/embed/b6R9-7KZ8YM
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",B SMART
+https://www.youtube-nocookie.com/embed/u69D4P3Z3gw
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",Bloomberg Television
+https://bloomberg-bloombergtv-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",Bref Cinéma 100% Court Métrage
+https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",Brionnais TV
+https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",Cannes Lérins TV
+https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",CGTN Français
+https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",CGTN Français
+https://www.youtube-nocookie.com/embed/DxhwEQjegYw
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",DBM
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",Ère TV
+https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="FR" geo-blocked="no",Euronews en Español
+https://www.youtube-nocookie.com/embed/O9mOtdZ-nSk
+#EXTINF:-1 tvg-language="eng" group-title="FR" geo-blocked="no",Euronews English
+https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="FR" geo-blocked="no",Euronews English
+https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="FR" geo-blocked="no",Euronews English
+https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="FR" geo-blocked="no",Euronews English
+https://www.youtube-nocookie.com/embed/pykpO5kQJ98
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",Euronews Français
+https://www.youtube-nocookie.com/embed/NiRIbKwAejk
+#EXTINF:-1 tvg-language="deu" group-title="FR" geo-blocked="no",Euronews German
+https://www.youtube-nocookie.com/embed/CQ3KsEbsYHs
+#EXTINF:-1 tvg-language="ita" group-title="FR" geo-blocked="no",Euronews Italiano
+https://www.youtube-nocookie.com/embed/pUcmpyynASM
+#EXTINF:-1 tvg-language="hun" group-title="FR" geo-blocked="no",Euronews Magyar
+https://www.youtube-nocookie.com/embed/jAn7L2Kt32U
+#EXTINF:-1 tvg-language="por" group-title="FR" geo-blocked="no",Euronews Português
+https://www.youtube-nocookie.com/embed/XuZAl-ZPEcA
+#EXTINF:-1 tvg-language="ron" group-title="FR" geo-blocked="no",Euronews Română
+https://www.youtube-nocookie.com/embed/meEZT2wrxCQ
+#EXTINF:-1 tvg-language="ell" group-title="FR" geo-blocked="no",Euronews Ελληνικά
+https://www.youtube-nocookie.com/embed/uWIhV9gQClg
+#EXTINF:-1 tvg-language="rus" group-title="FR" geo-blocked="no",Euronews Русский
+https://www.youtube-nocookie.com/embed/lwYzwdBiaho
+#EXTINF:-1 tvg-language="eng" group-title="FR" geo-blocked="no",Fashion TV UHD
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="FR" geo-blocked="no",FashionTV Europe
+https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="FR" geo-blocked="no",FashionTV Europe
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="FR" geo-blocked="no",FashionTV Europe
+https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="FR" geo-blocked="no",FashionTV Europe
+https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",FilmRise Binge Watch France
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883021
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",FilmRise DeGrassi la nouvelle génération
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883113
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",FilmRise Hot Ones
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883082
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",FilmRise Les Routes du Paradis
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883083
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",FilmRise Séries France
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883033
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",FilmRise Z Nation France
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883103
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",France 24 Arabic
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",France 24 Arabic
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",France 24 Arabic
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",France 24 Arabic
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",France 24 Arabic
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_900.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",France 24 Arabic
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_900.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",France 24 Arabic
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_500.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",France 24 Arabic
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_500.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="FR" geo-blocked="no",France 24 Español
+https://www.youtube-nocookie.com/embed/Y-IlMeCCtIg
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",France 24 French
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",France 24 French
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",France 24 French
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",France 24 French
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",France 24 French
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_900.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",France 24 French
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",France 24 French
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",France 24 French
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",franceinfo
+https://www.youtube-nocookie.com/embed/Z-Nwo-ypKtM
+#EXTINF:-1 tvg-language="ara" group-title="FR" geo-blocked="no",FX2 Farsi
+https://toonixhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",HANDICAP TV France
+https://srv.webtvmanager.fr:3697/stream/play.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",Kozoom TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",KTO
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",L'Equipe Live 1
+https://d3awaj0f2u3w26.cloudfront.net/4/media.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",L'Equipe Live 2
+https://d2l55nvfkhk4sg.cloudfront.net/4/media.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",LCI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",Le Figaro IDF
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",Littoral FM
+https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",Lou!
+https://www.youtube-nocookie.com/embed/YQXhh0Ih-5E
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",Maurienne TV
+https://www.youtube-nocookie.com/embed/5ARTNKq49WY
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",Mosaïk Cristal
+https://www.youtube-nocookie.com/embed/6YasJ8ISSkY
+#EXTINF:-1 tvg-language="rus" group-title="FR" geo-blocked="no",Motorsport.tv
+https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",Motorvision.tv (French)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",MyTime Movie Network
+https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",Mytime Movies
+https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",P2M TV
+https://vdo2.pro-fhi.net:3207/stream/play.m3u8
+#EXTINF:-1 tvg-language="kur" group-title="FR" geo-blocked="no",Persiana 4Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="FR" geo-blocked="no",Persiana Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="FR" geo-blocked="no",Persiana Comedy
+https://comedyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="FR" geo-blocked="no",Persiana Family
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="FR" geo-blocked="no",Persiana HD
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="FR" geo-blocked="no",Persiana Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="FR" geo-blocked="no",Persiana Junior
+https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="FR" geo-blocked="no",Persiana Korea
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="FR" geo-blocked="no",Persiana Latino
+https://latinohls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="FR" geo-blocked="no",Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="FR" geo-blocked="no",Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="FR" geo-blocked="no",Persiana One
+https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",Persiana Rap
+https://raphls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="FR" geo-blocked="no",Persiana Science
+https://scihls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="FR" geo-blocked="no",Persiana Sonnati
+https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="FR" geo-blocked="no",Persiana Turkiye
+https://turkhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fas" group-title="FR" geo-blocked="no",Persiana Two
+https://twohls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",Puissance Télévision
+https://www.youtube-nocookie.com/embed/1a8mVYWZQRs
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",Rakuten TV Films Action
+https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",Rakuten TV Films Comédie
+https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",Rakuten TV Films Drames
+https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",Rakuten TV Films Famille
+https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",Rakuten TV Films Romance
+https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",Rakuten TV Séries Crime
+https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",Rakuten TV The Guardian
+https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/master.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",Rakuten TV Top Films
+https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",Rakuten TV Trailers
+https://a01cb16df2c946afa72d661622953cad.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4546/master.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",Rakuten TV Viki Europe
+https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",Revry Europe (Frequency backend)
+https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",Revry News Europe (Frequency backend)
+https://dce9e10d279f410d87ef5ad1c3740459.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_RevryNews/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",RFI
+https://www.youtube-nocookie.com/embed/tDUfyAYcVQs
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",RMC Découverte
+https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",RMC Story
+https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",RT France
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",RT France
+https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",Simon Super Lapin
+https://www.youtube-nocookie.com/embed/KnYBB20ixRE
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",Sport En France
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",Sport En France
+https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",Sport En France
+https://sp1564435593.mytvchain.info/live/sp1564435593_360/index.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",SQOOL TV
+https://www.youtube-nocookie.com/embed/7DqD92vehgM
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",Stormcast Novelas TV
+https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",Tech & Co
+https://www.youtube-nocookie.com/embed/ZbARVTcSZVU
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",TéléGohelle
+https://videas.agglo-lenslievin.fr/index.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",Televisa Telenovela Channel
+https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",TF1
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",TFX
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="FR" geo-blocked="no",The '80s Guy: Darksynth FM
+https://www.youtube-nocookie.com/embed/Nn87x5B26-c
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",TMC
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",Toonami
+https://adultswim-vodlive.cdn.turner.com/live/toonami/stream_de.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",Totally Spies!
+https://www.youtube-nocookie.com/embed/Gj2P22jTgZw
+#EXTINF:-1 tvg-language="por" group-title="FR" geo-blocked="no",TRACE Brazuca
+https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",TRACE Latina
+https://amg01131-tracetv-amg01131c3-stirr-us-4391.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",TRACE Latina
+https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="FR" geo-blocked="no",Trace Sport Stars (Australia)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="FR" geo-blocked="no",Trace Sport Stars (Australia)
+https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",Trace Urban (Australia)
+https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",Trace Urban (Australia)
+https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",TV Finance
+https://strhlslb01.streamakaci.tv/str_tvfinance_tvfinance/str_tvfinance_multi/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",TV5Monde Style
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",TV78
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",ViàMatélé
+https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",viàTéléPaese
+https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",Wildside TV
+https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="fra" group-title="FR" geo-blocked="no",XilamTV
+https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",Zee One
+https://87e3eec452134557a82da031f54a1899.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_ZeeMagic/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="FR" geo-blocked="no",Zylo Ciné Nanar
+https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8

@@ -1,0 +1,185 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",24/7 Canal de Noticias
+https://panel.host-live.com:19360/cn247tv/passthru.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",A24
+https://www.youtube-nocookie.com/embed/QGpHLgRnrx4
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Aire de Santa Fe
+https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",América TV
+https://www.youtube-nocookie.com/embed/zcWXboTnous
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Argentinísima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",AVC HD
+https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Azahares Radio Multimedia
+https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Bayres TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Beats Radio
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",C5N
+https://www.youtube-nocookie.com/embed/jTDk5CswBVk
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Cable Imagen Armstrong
+https://stream.arcast.com.ar/casse/casse/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",CADENA HEAT 91.9 FM
+https://www.youtube-nocookie.com/embed/9MAF_mCH3xY
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal 2 de Ushuaia
+https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal 2 Misiones
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal 3 La Pampa
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal 4 Posadas
+https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal 4 San Juan
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal 5 Pico Truncado
+https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal 5 Santa Fe
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal 6 ERTV
+https://www.youtube-nocookie.com/embed/R_-sJmEUAgw
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal 7 Neuquén
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal 7 Salta
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal 7 Santiago del Estero
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal 8 San Juan
+https://www.youtube-nocookie.com/embed/bZl4VKkeoS4
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal 9 Litoral
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal 9 Televida
+https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal 11 de la Costa
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal 12 Puerto Madryn
+https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal 13 San Juan
+https://www.youtube-nocookie.com/embed/FJi3ZdSVpAo
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal 21 TV
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal 22
+https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal 26
+https://www.youtube-nocookie.com/embed/FhegnQMhMlE
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal 34 San Juan
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal 79 La Costa
+https://streamconex.com:19360/lacosta/lacosta.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal 79 Puan
+https://streamconex.com:19360/puan/puan.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal 79 Santa Clara del Mar
+https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal de la Ciudad
+https://www.youtube-nocookie.com/embed/h4ecrrdXz44
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal E
+https://www.youtube-nocookie.com/embed/O7ld5qnx0zk
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal Provincial
+https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal Santa María
+https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Canal U
+https://stream.arcast.live/canalu/canalu/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Catamarca TV
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Chaco TV
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Chilecito TV
+https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Ciudad Magazine
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:-1 tvg-language="" group-title="AR" geo-blocked="no",Cosmos TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Crónica TV
+https://www.youtube-nocookie.com/embed/avly0uwZzOE
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Diputados TV
+https://www.youtube-nocookie.com/embed/A3NJy9R1_OY
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",El Doce
+https://www.youtube-nocookie.com/embed/TzoH0cN3suQ
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",El Ocho
+https://www.youtube-nocookie.com/embed/NNZYAyfovBY
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",El Once Radio
+https://www.youtube-nocookie.com/embed/Q7jIhiCE6as
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",El Once TV
+https://www.youtube-nocookie.com/embed/wPFrHqmcmPM
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",El Siete TV
+https://www.youtube-nocookie.com/embed/Vh8xmLBJtR8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",FMVale975
+https://www.youtube-nocookie.com/embed/Q2bQYIO1HGY
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Garage TV Latin America
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",La Nación+
+https://www.youtube-nocookie.com/embed/OR9MH16MKrg
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Litus TV
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Magic Kids
+https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Malbec Play
+https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Más FM 95.9
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Mega 98.3
+https://www.youtube-nocookie.com/embed/HweiUpAK4JQ
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Metro TV
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-1 tvg-language="" group-title="AR" geo-blocked="no",Milennio TV
+https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Neox TV
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",NET TV
+https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Panc TV
+https://panel.host-live.com:19360/20004/20004.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Play Television
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Pop Radio 101.5
+https://www.youtube-nocookie.com/embed/-y62m5LeUUM
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Power Max Radio TV
+https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Quatro TV
+https://stream.arcast.live/quatro/quatro/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Quiero Música TV
+https://www.youtube-nocookie.com/embed/8Mw0YdKN2XY
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Radio Mitre
+https://www.youtube-nocookie.com/embed/Di47zOyje6Y
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Radio Realpolitik
+https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Radio Sublime Gracia TV
+https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Radio Yguazú TV
+https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Sicardi TV
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Somos La Pampa
+https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",TeleCinco Trelew
+https://videohd.live:19360/8016/8016.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Telefe Noticias
+https://www.youtube-nocookie.com/embed/MocwNxD7WJk
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Televisión Pública
+https://www.youtube-nocookie.com/embed/nxeZAReS0_8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",TN Todo Noticias
+https://www.youtube-nocookie.com/embed/cb12KmMMDJA
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Uniteve
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Urbana Play 104.3 FM
+https://www.youtube-nocookie.com/embed/s_skHfNexmg
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",VerTV (VTV)
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Xtrema Animal
+https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Xtrema Cartoons
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Xtrema Cine Acción
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Xtrema Cine Clasico
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="AR" geo-blocked="no",Xtrema Terror
+https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8

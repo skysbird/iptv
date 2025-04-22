@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="ara" group-title="DZ" geo-blocked="no",AL24 News
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="DZ" geo-blocked="no",Almagharibia TV: المغاربية
+https://www.youtube-nocookie.com/embed/W9-l-rVgZjE
+#EXTINF:-1 tvg-language="kab" group-title="DZ" geo-blocked="no",TV4
+https://tgn.bozztv.com/dvrfl05/ga-algeria4/index.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="DZ" geo-blocked="no",TV6
+https://tgn.bozztv.com/dvrfl05/ga-algeria6/index.m3u8

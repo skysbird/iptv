@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="mkd" group-title="MK" geo-blocked="no",Naša TV
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+#EXTINF:-1 tvg-language="mkd" group-title="MK" geo-blocked="no",Sky Folk TV
+https://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-language="mkd" group-title="MK" geo-blocked="no",Sky Folk TV
+https://skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-language="mkd" group-title="MK" geo-blocked="no",Star Plus Music
+https://live.muzickatv.mk/live/StarMusic2.m3u8

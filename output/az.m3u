@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="aze" group-title="AZ" geo-blocked="no",Alvin Channel TV
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1 tvg-language="aze" group-title="AZ" geo-blocked="no",Az TV
+https://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:-1 tvg-language="aze" group-title="AZ" geo-blocked="no",Azad TV
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
+#EXTINF:-1 tvg-language="" group-title="AZ" geo-blocked="no",Azstar TV
+https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+#EXTINF:-1 tvg-language="aze" group-title="AZ" geo-blocked="no",Baku TV
+https://www.youtube-nocookie.com/embed/BueHbXfi6hc
+#EXTINF:-1 tvg-language="aze" group-title="AZ" geo-blocked="no",Idman TV
+https://str.yodacdn.net/idman/index.m3u8
+#EXTINF:-1 tvg-language="aze" group-title="AZ" geo-blocked="no",Medeniyyet TV
+https://str.yodacdn.net/medeniyyet/index.m3u8

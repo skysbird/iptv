@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="ara" group-title="OM" geo-blocked="no",Alistiqama TV
+https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="OM" geo-blocked="no",Oman Althakafia
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="OM" geo-blocked="no",Oman Mubashir
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="OM" geo-blocked="no",Oman Sports TV
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="OM" geo-blocked="no",Oman TV
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="OM" geo-blocked="no",Oman TV
+https://cdn-globecast.akamaized.net/live/eds/oman_tv/hls_roku/index.m3u8

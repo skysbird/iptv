@@ -1,0 +1,171 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",8NTV
+https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",adn40Mx
+https://www.youtube-nocookie.com/embed/d6sRTSG4rgs
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Alcance TV
+https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Antena TV
+https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",California Medios TV
+https://s5.mexside.net:1936/medios/medios/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Canal 10 Cancún
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Canal 10 Durango
+https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Canal 15 ILCE Summa Sabres
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Canal 23 Televisa Ensenada
+https://www.youtube-nocookie.com/embed/m7AbX_Vv_7Q
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Canal 26 Aguascalientes
+https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Canal 33 Tijuana
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Canal 44 Chihuahua
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Canal Catorce
+https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Canal Ocho TV
+https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Canal Parlamento del Congreso de Jalisco
+https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",CreaLaTV
+https://www.youtube-nocookie.com/embed/gWbdC12y4xk
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Despierta TV
+https://video2.lhdserver.es/despiertatv/live.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",El Chavo del 8
+https://www.youtube-nocookie.com/embed/hct5qjC_n9M
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",El Sonorense
+https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Expresa TV
+https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Filmex (Xumo)
+https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Filmex Clásico
+https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Imagen Multicast
+https://www.youtube-nocookie.com/embed/mxcYw24BpOs
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",ImagenTV
+https://www.youtube-nocookie.com/embed/QE0AxW13MJU
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Justicia TV
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Lobo TV
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",María Visión Mexico
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Mexiquense TV
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Milenio Televisión
+https://www.youtube-nocookie.com/embed/CSXA3ICbX-8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",MULTIMEDIOS
+https://www.youtube-nocookie.com/embed/Ivk1W1n1m9s
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Nayarit Comunica
+https://live.iplanay.gob.mx/hls/nayarittv.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",NMás
+https://www.youtube-nocookie.com/embed/-TQytOurm5w
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Once México
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",RCG TV
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="MX" geo-blocked="no",RCG TV (Timeshifted -2 Hours)
+https://video1.getstreamhosting.com:1936/8246/8246/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",RTQ Queretaro
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Señal España (XHUNES-TDT)
+https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",SIPSE TV 8.1
+https://webprod.sipse.com.mx:8080/show/merida.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",SIPSE TVCUN 8.1
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Super Channel 12
+https://servilive.com:3263/live/channel12live.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Tele Yucatan
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Telediario Guadalajara
+https://www.youtube-nocookie.com/embed/Pc_3PCAK7iM
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Teleplay Sureste
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Teleplay Sureste
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Televisa Ciudad Juarez
+https://www.youtube-nocookie.com/embed/gbry1tvRZLA
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Televisa Del Bajio
+https://www.youtube-nocookie.com/embed/qsAliPF90z8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Televisa Del Golfo
+https://www.youtube-nocookie.com/embed/i75SEm6-JU0
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Televisa Guadalajara
+https://www.youtube-nocookie.com/embed/NzMMrExwh-A
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Televisa Guerrero
+https://www.youtube-nocookie.com/embed/QLi3qIl4HHY
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Televisa Laguna
+https://www.youtube-nocookie.com/embed/AIWc0Cyrt3Y
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Televisa Mexicali
+https://www.youtube-nocookie.com/embed/_tmRxwCiL3k
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Televisa Monterrey
+https://www.youtube-nocookie.com/embed/FljzAQjqO0w
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Televisa Piedras Negras
+https://www.youtube-nocookie.com/embed/9DIutdq-yio
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Televisa Puebla
+https://www.youtube-nocookie.com/embed/0psOGZ6ypa0
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Televisa Querétaro
+https://www.youtube-nocookie.com/embed/jtjwt0m8dnY
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Televisa Sinaloa
+https://www.youtube-nocookie.com/embed/-7LBRckM_c4
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Televisa Sonora
+https://www.youtube-nocookie.com/embed/Djp-4zYQKBI
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Televisa Tijuana
+https://www.youtube-nocookie.com/embed/AvBZw5U8qx8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Televisa Univision Saltillo
+https://www.youtube-nocookie.com/embed/ODe-HMnATZs
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Televisa Veracruz
+https://www.youtube-nocookie.com/embed/t2Sb-LakHdo
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Televisa Victoria
+https://www.youtube-nocookie.com/embed/4Lbf5pmA_4E
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Televisa Zacatecas
+https://www.youtube-nocookie.com/embed/WMH8G1xnTqY
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Televisión de Galicia
+https://www.youtube-nocookie.com/embed/AY83mDidQB0
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Tlaxcala Televisión
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",TV Cuatro 4.1
+https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",TV Cuatro 4.2
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",TV Lobo Durango
+https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",TV Mar La Paz
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",TV Mar Puerto Vallarta
+https://5ca3e84a76d30.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",TV Nuevo León Canal 28 (XHMNL-TDT)
+https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",TV UJAT (XHUJAT-TDT)
+https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",TVMás
+https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",TVMÁS (XHGV-TDT)
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",TVP Culiacán
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",TVP Los Mochis
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",TVP Mazatlán
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",TVP Obregón
+https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",Ultra TV Puebla
+https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",UMTV
+https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",VB Media TV
+https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="MX" geo-blocked="no",ZAZ
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8

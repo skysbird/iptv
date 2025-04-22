@@ -1,0 +1,231 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",12 канал
+https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",12 канал
+https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",360°
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",360° Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="RU" geo-blocked="no",A21 VITAL AUTOSPORT
+https://autopilot.catcast.tv/content/37909/index.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Dag Music
+https://www.youtube-nocookie.com/embed/9ylmSDP9VSA
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Get Movies: Маша и Медведь
+https://www.youtube-nocookie.com/embed/QpfneTdbq6U
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Jetix
+https://www.youtube-nocookie.com/embed/Ii9x2v4Jz6E
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Kulinar TV Show
+https://api.alpaca.t62a.com/hls/9110/index.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Leomax 24
+https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="RU" geo-blocked="no",RT Arabic
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-language="ara" group-title="RU" geo-blocked="no",RT Arabic
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="RU" geo-blocked="no",RT Documentary English
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="RU" geo-blocked="no",RT Documentary English
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="RU" geo-blocked="no",RT Documentary Russian
+https://streaming.televizor-24-tochka.ru/live/554.m3u8
+#EXTINF:-1 tvg-language="" group-title="RU" geo-blocked="no",RT Documentary Russian
+https://streaming.skynetconnect.online/live/554.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="RU" geo-blocked="no",RT en Español
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-language="spa" group-title="RU" geo-blocked="no",RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="RU" geo-blocked="no",RT News
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="RU" geo-blocked="no",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="RU" geo-blocked="no",RT News
+https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",SONGTV Russia
+https://songtv.hls.iptvdc.com/web-russia/index.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",TaronaMusic
+https://www.youtube-nocookie.com/embed/6977KHZH-gU
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",TV BRICS Russian
+https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Zafari Rahimzod
+https://www.youtube-nocookie.com/embed/cERy_JvCJeg
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Архыз 24
+https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Астрахань 24
+https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Астрахань.Ru TV
+https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Белгород 24
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",БелРос
+https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",БСТ (Башкирское спутниковое телевидение)
+https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Вместе РФ
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Дагестан
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Дембельский альбом: Солдаты
+https://www.youtube-nocookie.com/embed/1zpCNefHbC0
+#EXTINF:-1 tvg-language="" group-title="RU" geo-blocked="no",Детское кино International
+https://autopilot.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Дождь
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Дом Кино
+https://streaming.televizor-24-tochka.ru/live/44.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Дума ТВ
+https://dumatv.iptv2022.com/index.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Евразия (Орск)
+https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Енисей
+https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Звезда
+https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Звезда
+https://streaming.televizor-24-tochka.ru/live/748.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Звезда
+https://streaming.skynetconnect.online/live/748.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Ингушетия ТВ
+https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Каббала ТВ
+https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Карусель
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Карусель
+https://streaming.televizor-24-tochka.ru/live/232.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Карусель
+https://streaming.skynetconnect.online/live/232.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Кино Добряк: Сваты и Байки Митяя
+https://www.youtube-nocookie.com/embed/OZJJ8Tm7ozg
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Культура
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Курай (Уфа)
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Легендарный 24
+https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Магнат ТВ
+https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Миллет
+https://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Москва 24: Прямой эфир Москва 24
+https://www.youtube-nocookie.com/embed/rqyS_IkfOQw
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Муз союз
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",МузТВ
+https://streaming.televizor-24-tochka.ru/live/618.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Надежда
+https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 tvg-language="sah" group-title="RU" geo-blocked="no",НВК Саха
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Ника ТВ
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",НТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",НТВ Мир
+https://streaming.televizor-24-tochka.ru/live/213.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",НТВ Мир
+https://streaming.skynetconnect.online/live/213.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",НТМ (Народное телевидение Мордовии)
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",НТС (Севастополь)
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Первый канал
+https://streaming.televizor-24-tochka.ru/live/210.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Первый канал
+https://streaming.skynetconnect.online/live/210.m3u8
+#EXTINF:-1 tvg-language="" group-title="RU" geo-blocked="no",Первый Ярославский
+https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Победа
+https://streaming.televizor-24-tochka.ru/live/43.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Победа
+https://streaming.skynetconnect.online/live/43.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Прима
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Просвещение
+https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Пятница!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Пятый Канал
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Радость моя
+https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",РБК
+https://online-video.rbc.ru/spb/rbctv_spb.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",РЕН ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Россия 24
+https://streaming.televizor-24-tochka.ru/live/30.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Россия 24
+https://streaming.skynetconnect.online/live/30.m3u8
+#EXTINF:-1 tvg-language="" group-title="RU" geo-blocked="no",Россия РТР
+https://streaming.televizor-24-tochka.ru/live/211.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Салям (Уфа)
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Своё ТВ (Ставрополь)
+https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Север (Нарьян-Мар)
+https://live2.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Север (Нарьян-Мар)
+https://live.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:-1 tvg-language="" group-title="RU" geo-blocked="no",Смотрим
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Советское телевидение. ГОСТЕЛЕРАДИОФОНД: Следствие ведут ЗнаТоКи
+https://www.youtube-nocookie.com/embed/NFXv2UW-KLI
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Союз
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Союзмультфильм: Ну, погоди!
+https://www.youtube-nocookie.com/embed/wLU8_vs1dxo
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Союзмультфильм: Простоквашино
+https://www.youtube-nocookie.com/embed/4UhHLQZLXyY
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",СПАС
+https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Страна ФМ
+https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Суббота!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 tvg-language="bak" group-title="RU" geo-blocked="no",Тамыр (Уфа)
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",ТВ-3
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",ТВК 24
+https://air.tvk6.ru/tvk24/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Телеканал ЕДА
+https://www.youtube-nocookie.com/embed/47k36yRqqD0
+#EXTINF:-1 tvg-language="" group-title="RU" geo-blocked="no",Телеканал Краснодар
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Телеканал Ювелирия
+https://www.youtube-nocookie.com/embed/Z5uJWdOIIMc
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Телплюс ТВ (Астрахань)
+https://streaming.astrakhan.ru/telplushd/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",ТК Алмазный край
+https://stream.almaz-media.tv:8080/hls/576.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",ТНВ-Планета (Казань)
+https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",ТНТ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",ТНТ
+https://streaming.televizor-24-tochka.ru/live/38.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",ТНТ MUSIC
+https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Толк
+https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Три Ангела
+https://hls.tv.3angels.ru/stream.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Три Ангела
+https://3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Тюменское время
+https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Хузур ТВ
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Центр (Красноярск)
+https://stream.tck.tv/hd.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Эхо TV (Рязань)
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Ювелирочка
+https://www.youtube-nocookie.com/embed/ko4p2MBgqXc
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Ювелирочка ТВ
+https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+#EXTINF:-1 tvg-language="rus" group-title="RU" geo-blocked="no",Югра
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8

@@ -1,0 +1,137 @@
+#EXTM3U
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Al-Iman TV
+https://tv.aliman.id/aliman/live.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Alwafa Tarim TV (Am Media)
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Aquarius Musikindo: Frekuensi
+https://www.youtube-nocookie.com/embed/U4Ux0ePA_2U
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Balikpapan TV
+https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Banten TV
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",BTV
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Bungo TV
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Celebes TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Dhamma TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Dhoho TV
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Duta TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Ficom Channel
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Gazwah TV
+https://www.youtube-nocookie.com/embed/dPRdBbsBy98
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Huma Betang TV
+https://v3.siar.us/humabetangtv/live/playlist.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",IDTV
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Inspira TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Jawa Pos TV
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Khalid Basalamah
+https://www.youtube-nocookie.com/embed/Me04WYTpBOI
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Kilisuci TV
+https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",KOMPASTV
+https://www.youtube-nocookie.com/embed/DOOrIxw5xOw
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",KOMPASTV JAWA TIMUR
+https://www.youtube-nocookie.com/embed/Lq-oUnYTxm4
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Leo Si Penjaga Alam
+https://www.youtube-nocookie.com/embed/iuPU3IwK4zA
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Madu TV
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Marhaban TV
+https://www.youtube-nocookie.com/embed/CjxQXPJspG4
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Media Sunnah Aceh TV
+https://www.youtube-nocookie.com/embed/wnX1Yy4qpkA
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Metro Globe Network
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",METRO TV 
+https://www.youtube-nocookie.com/embed/-CwtcKDaaLA
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",MGS TV
+https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",MTATV
+https://www.youtube-nocookie.com/embed/4_oMYS0PhVc
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Official iNews
+https://www.youtube-nocookie.com/embed/Wssop82LUF8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",RCTV
+https://v10.siar.us/rctv/live/playlist.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Rodja TV
+https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Sakti TV
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Sangaji TV
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Serambinews
+https://www.youtube-nocookie.com/embed/RA-81UgyA4I
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Syafiq Riza Basalamah
+https://www.youtube-nocookie.com/embed/50mcd3si1O4
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",TATV
+https://v2.siar.us/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",TV Mu
+https://e.siar.us/live/tvmu.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",TV Tabalong
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",tvOneNews
+https://www.youtube-nocookie.com/embed/yNKvkPJl-tg
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",TVRI Bangka Belitung
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",TVRI Bengkulu
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",TVRI DKI Jakarta
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",TVRI Jambi
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",TVRI Jawa Barat
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",TVRI Jawa Tengah
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",TVRI Jawa Timur
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",TVRI Kalimantan Tengah
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",TVRI Kalimantan Timur
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",TVRI Lampung
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",TVRI Maluku
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",TVRI Nusa Tenggara Barat
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",TVRI Nusa Tenggara Timur
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",TVRI Papua
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",TVRI Riau
+https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",TVRI Sulawesi Barat
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",TVRI Sulawesi Selatan
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",TVRI Sulawesi Tengah
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",TVRI Sumatera Barat
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",TVRI Sumatera Selatan
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
+#EXTINF:-1 tvg-language="eng" group-title="ID" geo-blocked="no",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",TVRI Yogyakarta
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",UFA Live 24
+https://www.youtube-nocookie.com/embed/ecXRSSy4R8Q
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:-1 tvg-language="ind" group-title="ID" geo-blocked="no",Wesal TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
